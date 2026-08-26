@@ -1,0 +1,40 @@
+motive_family,motive_code,motive_label,is_analytic_motive,rows,unique_tweets
+0,0,Motives not mentioned in the twit,False,234,234
+5,5.4,Lack of knowledge/awarenes that it is violence,True,149,149
+5,5.2,Lack of knowledge/awarenes that it is violence,True,105,105
+7,7,Self-blame,True,98,98
+11,11,Shame/embarassment,True,78,78
+x,x,Reporting other's experience,False,63,63
+14,14,"Perpetrator was respected, powerfull, influential",True,62,62
+6,6.2,Fear,True,61,61
+15,15,Invisible violence / lack of physical evidence,True,56,56
+9,9,Managed to escape/defend,True,56,56
+3,3.2,Others minimized victims experience,True,54,54
+16,16,"""No one would believe""",True,50,50
+6,6,Fear,True,50,50
+12,12.1,Lack of support from others,True,50,50
+2,2,Distrust in institutions,True,48,48
+10,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),True,44,44
+6,6.3,Fear,True,41,41
+18,18,Perpetrator was a family member,True,36,36
+19,19.1,Protection of the family,True,26,26
+4,4,"""I tought that was normal"" (dismisal/minimizing)",True,23,23
+19,19.2,Protection of the family,True,23,23
+17,17,Blaming the victim,True,21,21
+5,5.1,Lack of knowledge/awarenes that it is violence,True,17,17
+3,3.1,Others minimized victims experience,True,15,15
+23,23,I can deal with it,True,13,13
+22,22,Dependent on the perpetrator,True,13,13
+5,5.3,Lack of knowledge/awarenes that it is violence,True,12,12
+12,12.2,Lack of support from others,True,10,10
+1,1,Demotivated by previous cases of reporting,True,9,9
+8,8,"Kept from reporting by others (""advised me not to report"")",True,9,9
+24,24,OTHER,True,9,9
+6,6.1,Fear,True,8,8
+19,19,Protection of the family,True,5,5
+3,3,Others minimized victims experience,True,5,5
+20,20,"Belief that perpetartor will change (""it won't happen again"")",True,4,4
+5,5.5,Lack of knowledge/awarenes that it is violence,True,3,3
+5,5,Lack of knowledge/awarenes that it is violence,True,2,2
+5,5.0,Lack of knowledge/awarenes that it is violence,True,1,1
+x,X,Reporting other's experience,False,1,1

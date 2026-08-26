@@ -1,0 +1,88 @@
+motive_family,motive_label,emotion_display,fractional_retweet_count,unique_retweets,reason_total_fractional,reason_emotion_retweet_share,display_label
+5,Lack of knowledge/awarenes that it is violence,sadness,510.5833333333333,614,977.5833333333333,0.5222913647600376,Lack of knowledge about violence
+5,Lack of knowledge/awarenes that it is violence,fear,254.16666666666666,259,977.5833333333333,0.25999488534651777,Lack of knowledge about violence
+5,Lack of knowledge/awarenes that it is violence,anger,187.83333333333334,298,977.5833333333333,0.19214048248231186,Lack of knowledge about violence
+5,Lack of knowledge/awarenes that it is violence,disgust,15.333333333333334,24,977.5833333333333,0.015684937345494844,Lack of knowledge about violence
+5,Lack of knowledge/awarenes that it is violence,Other,9.666666666666666,12,977.5833333333333,0.009888330065638053,Lack of knowledge about violence
+6,Fear,sadness,405.48333333333335,573,707.8166666666666,0.5728649132308272,Fear
+6,Fear,fear,204.0,231,707.8166666666666,0.28821022392804163,Fear
+6,Fear,Other,48.0,94,707.8166666666666,0.0678141703360098,Fear
+6,Fear,anger,28.0,45,707.8166666666666,0.039558266029339054,Fear
+6,Fear,disgust,22.333333333333332,24,707.8166666666666,0.03155242647578234,Fear
+15,Invisible violence / lack of physical evidence,sadness,307.3333333333333,360,570.3333333333333,0.5388661601402689,Invisible violence or lack of evidence
+15,Invisible violence / lack of physical evidence,fear,106.5,132,570.3333333333333,0.18673290473407367,Invisible violence or lack of evidence
+15,Invisible violence / lack of physical evidence,anger,93.5,98,570.3333333333333,0.16393921683226187,Invisible violence or lack of evidence
+15,Invisible violence / lack of physical evidence,Other,45.0,90,570.3333333333333,0.0789012273524255,Invisible violence or lack of evidence
+15,Invisible violence / lack of physical evidence,disgust,18.0,36,570.3333333333333,0.031560490940970194,Invisible violence or lack of evidence
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),anger,362.1666666666667,393,460.83333333333337,0.7858951175406871,Gaslighting or self-doubt
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,82.83333333333333,180,460.83333333333337,0.17974683544303796,Gaslighting or self-doubt
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),fear,11.833333333333334,16,460.83333333333337,0.025678119349005425,Gaslighting or self-doubt
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),disgust,3.5,7,460.83333333333337,0.007594936708860759,Gaslighting or self-doubt
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),Other,0.5,1,460.83333333333337,0.0010849909584086798,Gaslighting or self-doubt
+2,Distrust in institutions,sadness,277.0,300,430.0,0.6441860465116279,Distrust in institutions
+2,Distrust in institutions,Other,61.0,61,430.0,0.14186046511627906,Distrust in institutions
+2,Distrust in institutions,fear,58.5,138,430.0,0.13604651162790699,Distrust in institutions
+2,Distrust in institutions,disgust,32.0,32,430.0,0.07441860465116279,Distrust in institutions
+2,Distrust in institutions,anger,1.5,2,430.0,0.0034883720930232558,Distrust in institutions
+9,Managed to escape/defend,sadness,206.5,216,273.8333333333333,0.7541083384053561,Escaped or defended oneself
+9,Managed to escape/defend,fear,22.666666666666664,66,273.8333333333333,0.08277541083384053,Escaped or defended oneself
+9,Managed to escape/defend,anger,19.0,19,273.8333333333333,0.0693852708460134,Escaped or defended oneself
+9,Managed to escape/defend,Other,18.0,18,273.8333333333333,0.0657334144856969,Escaped or defended oneself
+9,Managed to escape/defend,disgust,7.666666666666666,12,273.8333333333333,0.02799756542909312,Escaped or defended oneself
+11,Shame/embarassment,sadness,248.23333333333332,527,271.65,0.9137983925394196,Shame or embarrassment
+11,Shame/embarassment,anger,12.666666666666666,30,271.65,0.04662862752316093,Shame or embarrassment
+11,Shame/embarassment,fear,10.25,16,271.65,0.03773237621939997,Shame or embarrassment
+11,Shame/embarassment,disgust,0.5,1,271.65,0.0018406037180195105,Shame or embarrassment
+19,Protection of the family,anger,106.0,201,261.8333333333333,0.4048376830044558,Family protection
+19,Protection of the family,sadness,92.58333333333333,211,261.8333333333333,0.3535964353914704,Family protection
+19,Protection of the family,fear,38.25,95,261.8333333333333,0.14608529598981543,Family protection
+19,Protection of the family,disgust,14.0,15,261.8333333333333,0.05346912794398473,Family protection
+19,Protection of the family,Other,11.0,11,261.8333333333333,0.042011457670273714,Family protection
+7,Self-blame,sadness,128.65,289,251.81666666666666,0.5108875504666094,Self-blame
+7,Self-blame,fear,62.833333333333336,67,251.81666666666666,0.24952015355086374,Self-blame
+7,Self-blame,anger,36.0,72,251.81666666666666,0.14296114898404924,Self-blame
+7,Self-blame,disgust,22.5,23,251.81666666666666,0.08935071811503077,Self-blame
+7,Self-blame,Other,1.8333333333333333,3,251.81666666666666,0.007280428883446952,Self-blame
+22,Dependent on the perpetrator,sadness,233.58333333333334,275,241.08333333333334,0.9688904251641894,Dependence on perpetrator
+22,Dependent on the perpetrator,fear,6.5,13,241.08333333333334,0.026961631524369166,Dependence on perpetrator
+22,Dependent on the perpetrator,disgust,1.0,2,241.08333333333334,0.00414794331144141,Dependence on perpetrator
+3,Others minimized victims experience,sadness,132.75,219,178.41666666666666,0.7440448388603457,Others minimized the experience
+3,Others minimized victims experience,fear,24.333333333333332,64,178.41666666666666,0.13638486688463336,Others minimized the experience
+3,Others minimized victims experience,disgust,10.833333333333334,22,178.41666666666666,0.06071929005137787,Others minimized the experience
+3,Others minimized victims experience,Other,6.0,6,178.41666666666666,0.03362914525922466,Others minimized the experience
+3,Others minimized victims experience,anger,4.5,7,178.41666666666666,0.025221858944418498,Others minimized the experience
+4,"""I tought that was normal"" (dismisal/minimizing)",sadness,168.0,177,178.16666666666666,0.9429373246024322,Experience treated as normal
+4,"""I tought that was normal"" (dismisal/minimizing)",disgust,8.666666666666666,26,178.16666666666666,0.04864359214218896,Experience treated as normal
+4,"""I tought that was normal"" (dismisal/minimizing)",Other,1.0,1,178.16666666666666,0.005612722170252573,Experience treated as normal
+4,"""I tought that was normal"" (dismisal/minimizing)",fear,0.5,1,178.16666666666666,0.0028063610851262865,Experience treated as normal
+18,Perpetrator was a family member,sadness,74.83333333333333,166,142.5,0.5251461988304094,Perpetrator was family
+18,Perpetrator was a family member,anger,47.5,142,142.5,0.3333333333333333,Perpetrator was family
+18,Perpetrator was a family member,fear,19.5,22,142.5,0.1368421052631579,Perpetrator was family
+18,Perpetrator was a family member,Other,0.6666666666666666,2,142.5,0.004678362573099415,Perpetrator was family
+12,Lack of support from others,sadness,54.81666666666667,171,117.31666666666666,0.46725387128853535,Lack of support
+12,Lack of support from others,fear,49.83333333333333,133,117.31666666666666,0.42477624662594116,Lack of support
+12,Lack of support from others,disgust,10.666666666666666,28,117.31666666666666,0.09092200596675663,Lack of support
+12,Lack of support from others,anger,1.5,3,117.31666666666666,0.012785907089075153,Lack of support
+12,Lack of support from others,Other,0.5,1,117.31666666666666,0.004261969029691718,Lack of support
+14,"Perpetrator was respected, powerfull, influential",sadness,36.5,68,86.58333333333333,0.4215591915303176,Perpetrator status or power
+14,"Perpetrator was respected, powerfull, influential",fear,23.083333333333332,34,86.58333333333333,0.2666025024061598,Perpetrator status or power
+14,"Perpetrator was respected, powerfull, influential",disgust,22.166666666666668,53,86.58333333333333,0.25601539942252166,Perpetrator status or power
+14,"Perpetrator was respected, powerfull, influential",anger,4.833333333333333,12,86.58333333333333,0.05582290664100096,Perpetrator status or power
+16,"""No one would believe""",sadness,47.083333333333336,89,59.833333333333336,0.786908077994429,No one would believe
+16,"""No one would believe""",fear,5.583333333333333,13,59.833333333333336,0.09331476323119776,No one would believe
+16,"""No one would believe""",disgust,3.833333333333333,11,59.833333333333336,0.06406685236768801,No one would believe
+16,"""No one would believe""",Other,1.8333333333333333,4,59.833333333333336,0.03064066852367688,No one would believe
+16,"""No one would believe""",anger,1.5,2,59.833333333333336,0.025069637883008356,No one would believe
+20,"Belief that perpetartor will change (""it won't happen again"")",sadness,22.900000000000002,113,23.900000000000002,0.9581589958158996,Belief perpetrator would change
+20,"Belief that perpetartor will change (""it won't happen again"")",anger,1.0,1,23.900000000000002,0.04184100418410042,Belief perpetrator would change
+23,I can deal with it,fear,21.666666666666664,63,23.666666666666664,0.9154929577464789,Belief that one could deal with it
+23,I can deal with it,anger,2.0,2,23.666666666666664,0.08450704225352114,Belief that one could deal with it
+8,"Kept from reporting by others (""advised me not to report"")",anger,15.0,30,20.333333333333332,0.7377049180327869,Discouraged by others
+8,"Kept from reporting by others (""advised me not to report"")",sadness,5.333333333333333,10,20.333333333333332,0.26229508196721313,Discouraged by others
+17,Blaming the victim,fear,9.0,25,12.5,0.72,Victim blaming
+17,Blaming the victim,anger,1.5,3,12.5,0.12,Victim blaming
+17,Blaming the victim,Other,1.0,1,12.5,0.08,Victim blaming
+17,Blaming the victim,sadness,1.0,3,12.5,0.08,Victim blaming
+1,Demotivated by previous cases of reporting,sadness,3.0,3,4.0,0.75,Discouraged by prior reporting outcomes
+1,Demotivated by previous cases of reporting,fear,1.0,1,4.0,0.25,Discouraged by prior reporting outcomes
+24,OTHER,sadness,1.0,1,1.0,1.0,Other

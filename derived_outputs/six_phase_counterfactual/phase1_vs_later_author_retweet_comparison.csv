@@ -1,0 +1,5 @@
+phase_id,phase_label,cohort,followup_hours,cohort_user_count,active_authors_in_phase,posts_authored,posts_with_at_least_one_retweet,retweets_received_within_followup,share_posts_retweeted,retweets_per_post
+2,phase_2,phase1_authors,12.0,87,35,60,38,412,0.6333333333333333,6.866666666666666
+2,phase_2,later_authors,12.0,2768,2314,2917,1155,10573,0.3959547480287967,3.624614329790881
+3,phase_3,phase1_authors,12.0,87,9,9,5,10,0.5555555555555556,1.1111111111111112
+3,phase_3,later_authors,12.0,2768,465,557,150,641,0.26929982046678635,1.1508078994614004

@@ -1,0 +1,37 @@
+row_type,parent_code,code,label,assignment_n,assignment_unit,assignment_denominator,assignment_pct,unique_tweets_n,unique_tweets_denominator,unique_tweets_pct
+parent,1,1,Discouraged by prior reporting outcomes,9,parent category,1238,0.007269789983844911,9,824,0.010922330097087379
+parent,2,2,Distrust in institutions,48,parent category,1238,0.03877221324717286,48,824,0.05825242718446602
+parent,3,3,Others minimized the experience,73,parent category,1238,0.05896607431340872,73,824,0.08859223300970874
+subcode,3,3.1,Others did not believe the victim,15,detailed code,1266,0.011848341232227487,15,824,0.01820388349514563
+subcode,3,3.2,Others minimized the severity,54,detailed code,1266,0.04265402843601896,54,824,0.06553398058252427
+parent,4,4,Experience treated as normal,23,parent category,1238,0.018578352180936994,23,824,0.027912621359223302
+parent,5,5,Lack of knowledge about violence,266,parent category,1238,0.2148626817447496,266,824,0.32281553398058255
+subcode,5,5.1,Did not know the experience should be reported,17,detailed code,1266,0.013428120063191154,17,824,0.02063106796116505
+subcode,5,5.2,Did not recognize the experience as violence,105,detailed code,1266,0.08293838862559241,105,824,0.12742718446601942
+subcode,5,5.3,Did not know whom to report to,12,detailed code,1266,0.009478672985781991,12,824,0.014563106796116505
+subcode,5,5.4,Was a child or young person,149,detailed code,1266,0.11769352290679305,149,824,0.1808252427184466
+subcode,5,5.5,Gendered barriers affecting men,3,detailed code,1266,0.002369668246445498,3,824,0.0036407766990291263
+parent,6,6,Fear,156,parent category,1238,0.1260096930533118,156,824,0.18932038834951456
+subcode,6,6.1,Fear of admitting what happened,8,detailed code,1266,0.00631911532385466,8,824,0.009708737864077669
+subcode,6,6.2,Fear of perpetrator retaliation,61,detailed code,1266,0.04818325434439179,61,824,0.07402912621359223
+subcode,6,6.3,Fear of others' reactions,41,detailed code,1266,0.03238546603475513,41,824,0.04975728155339806
+parent,7,7,Self-blame,98,parent category,1238,0.0791599353796446,98,824,0.11893203883495146
+parent,8,8,Discouraged by others,9,parent category,1238,0.007269789983844911,9,824,0.010922330097087379
+parent,9,9,Escaped or defended oneself,56,parent category,1238,0.045234248788368334,56,824,0.06796116504854369
+parent,10,10,Gaslighting or self-doubt,44,parent category,1238,0.035541195476575124,44,824,0.05339805825242718
+parent,11,11,Shame or embarrassment,78,parent category,1238,0.0630048465266559,78,824,0.09466019417475728
+parent,12,12,Lack of support,60,parent category,1238,0.048465266558966075,60,824,0.07281553398058252
+subcode,12,12.1,Lack of support after disclosure,50,detailed code,1266,0.03949447077409163,50,824,0.06067961165048544
+subcode,12,12.2,No one available to tell,10,detailed code,1266,0.007898894154818325,10,824,0.012135922330097087
+parent,14,14,Perpetrator status or power,62,parent category,1238,0.050080775444264945,62,824,0.07524271844660194
+parent,15,15,Invisible violence or lack of evidence,56,parent category,1238,0.045234248788368334,56,824,0.06796116504854369
+parent,16,16,No one would believe,50,parent category,1238,0.04038772213247173,50,824,0.06067961165048544
+parent,17,17,Victim blaming,21,parent category,1238,0.016962843295638127,21,824,0.025485436893203883
+parent,18,18,Perpetrator was family,36,parent category,1238,0.029079159935379646,36,824,0.043689320388349516
+parent,19,19,Family protection,54,parent category,1238,0.04361873990306947,54,824,0.06553398058252427
+subcode,19,19.1,Protecting family from shame or pain,26,detailed code,1266,0.020537124802527645,26,824,0.03155339805825243
+subcode,19,19.2,Protecting family from retaliatory consequences,23,detailed code,1266,0.018167456556082148,23,824,0.027912621359223302
+parent,20,20,Belief perpetrator would change,4,parent category,1238,0.0032310177705977385,4,824,0.0048543689320388345
+parent,22,22,Dependence on perpetrator,13,parent category,1238,0.01050080775444265,13,824,0.015776699029126214
+parent,23,23,Belief that one could deal with it,13,parent category,1238,0.01050080775444265,13,824,0.015776699029126214
+parent,24,24,Other,9,parent category,1238,0.007269789983844911,9,824,0.010922330097087379

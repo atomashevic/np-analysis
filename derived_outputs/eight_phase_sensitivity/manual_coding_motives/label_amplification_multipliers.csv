@@ -1,0 +1,23 @@
+motive_family,motive_label,unique_tweets,full_count_retweets,post_share,retweet_share,amplification_multiplier,display_label
+20,"Belief that perpetartor will change (""it won't happen again"")",4,114,0.004884004884004884,0.021533811862485833,4.409047978843974,Belief perpetrator would change
+22,Dependent on the perpetrator,13,290,0.015873015873015872,0.05477899508877975,3.4510766905931245,Dependence on perpetrator
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),44,597,0.05372405372405373,0.11276917264828107,2.0990443727032315,Gaslighting or self-doubt
+15,Invisible violence / lack of physical evidence,56,716,0.06837606837606838,0.13524744994333207,1.9779939554212314,Invisible violence or lack of evidence
+2,Distrust in institutions,48,533,0.05860805860805861,0.10068001511144692,1.717852757839063,Distrust in institutions
+19,Protection of the family,54,533,0.06593406593406594,0.10068001511144692,1.5269802291902783,Family protection
+18,Perpetrator was a family member,36,332,0.04395604395604396,0.06271250472232716,1.4267094824329427,Perpetrator was family
+4,"""I tought that was normal"" (dismisal/minimizing)",23,205,0.028083028083028084,0.038723082735171895,1.378878467830686,Experience treated as normal
+11,Shame/embarassment,78,574,0.09523809523809523,0.1084246316584813,1.1384586324140538,Shame or embarrassment
+6,Fear,155,968,0.18925518925518925,0.18284850774461656,0.9661479215667159,Fear
+9,Managed to escape/defend,56,331,0.06837606837606838,0.06252361163581413,0.9144078201737815,Escaped or defended oneself
+12,Lack of support from others,60,336,0.07326007326007326,0.0634680770683793,0.8663392519833774,Lack of support
+23,I can deal with it,13,65,0.015873015873015872,0.012278050623347185,0.7735171892708727,I can deal with it
+5,Lack of knowledge/awarenes that it is violence,266,1237,0.3247863247863248,0.2336607480166226,0.7194291452090747,Lack of recognition as violence
+7,Self-blame,98,454,0.11965811965811966,0.08575746127691726,0.7166873549570942,Self-blame
+3,Others minimized victims experience,73,328,0.08913308913308914,0.06195693237627503,0.6951058577557432,Others minimized the experience
+8,"Kept from reporting by others (""advised me not to report"")",9,40,0.01098901098901099,0.007555723460521345,0.6875708349074424,Discouraged by others
+14,"Perpetrator was respected, powerfull, influential",62,167,0.0757020757020757,0.031545145447676615,0.4167011955104379,Perpetrator status or power
+16,"""No one would believe""",50,119,0.06105006105006105,0.022478277295051002,0.3681941820929354,No one would believe
+24,Blaming the victim,21,32,0.02564102564102564,0.006044578768417076,0.23573857196826598,Blaming the victim
+1,Demotivated by previous cases of reporting,7,3,0.008547008547008548,0.0005666792595391009,0.0663014733660748,Demotivated by previous cases of reporting
+25,OTHER,7,1,0.008547008547008548,0.00018889308651303362,0.02210049112202493,OTHER

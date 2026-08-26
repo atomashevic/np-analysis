@@ -1,0 +1,303 @@
+post_phase_id,post_phase,post_phase_group,motive_family,motive_label,emotion,tweets,phase_reason_total,phase_reason_emotion_share,display_label,emotion_display
+1.0,phase_1,phase 1,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,1,1,1.0,Gaslighting or self-doubt,sadness
+1.0,phase_1,phase 1,11,Shame/embarassment,strah,1,6,0.16666666666666666,Shame or embarrassment,fear
+1.0,phase_1,phase 1,11,Shame/embarassment,tuga,5,6,0.8333333333333334,Shame or embarrassment,sadness
+1.0,phase_1,phase 1,12,Lack of support from others,gađenje,1,4,0.25,Lack of support,disgust
+1.0,phase_1,phase 1,12,Lack of support from others,strah,2,4,0.5,Lack of support,fear
+1.0,phase_1,phase 1,12,Lack of support from others,tuga,1,4,0.25,Lack of support,sadness
+1.0,phase_1,phase 1,14,"Perpetrator was respected, powerfull, influential",gađenje,1,4,0.25,Perpetrator status or power,disgust
+1.0,phase_1,phase 1,14,"Perpetrator was respected, powerfull, influential",strah,1,4,0.25,Perpetrator status or power,fear
+1.0,phase_1,phase 1,14,"Perpetrator was respected, powerfull, influential",tuga,2,4,0.5,Perpetrator status or power,sadness
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,gađenje,1,7,0.14285714285714285,Invisible violence or lack of evidence,disgust
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,strah,2,7,0.2857142857142857,Invisible violence or lack of evidence,fear
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,tuga,4,7,0.5714285714285714,Invisible violence or lack of evidence,sadness
+1.0,phase_1,phase 1,16,"""No one would believe""",tuga,1,1,1.0,No one would believe,sadness
+1.0,phase_1,phase 1,18,Perpetrator was a family member,tuga,1,1,1.0,Perpetrator was family,sadness
+1.0,phase_1,phase 1,19,Protection of the family,nepoznato,1,4,0.25,Family protection,unknown
+1.0,phase_1,phase 1,19,Protection of the family,strah,3,4,0.75,Family protection,fear
+1.0,phase_1,phase 1,2,Distrust in institutions,radost,1,7,0.14285714285714285,Distrust in institutions,joy
+1.0,phase_1,phase 1,2,Distrust in institutions,strah,3,7,0.42857142857142855,Distrust in institutions,fear
+1.0,phase_1,phase 1,2,Distrust in institutions,tuga,3,7,0.42857142857142855,Distrust in institutions,sadness
+1.0,phase_1,phase 1,20,"Belief that perpetartor will change (""it won't happen again"")",tuga,1,1,1.0,Belief perpetrator would change,sadness
+1.0,phase_1,phase 1,22,Dependent on the perpetrator,tuga,2,2,1.0,Dependence on perpetrator,sadness
+1.0,phase_1,phase 1,3,Others minimized victims experience,gađenje,1,4,0.25,Others minimized the experience,disgust
+1.0,phase_1,phase 1,3,Others minimized victims experience,strah,2,4,0.5,Others minimized the experience,fear
+1.0,phase_1,phase 1,3,Others minimized victims experience,tuga,1,4,0.25,Others minimized the experience,sadness
+1.0,phase_1,phase 1,4,"""I tought that was normal"" (dismisal/minimizing)",gađenje,1,3,0.3333333333333333,Experience treated as normal,disgust
+1.0,phase_1,phase 1,4,"""I tought that was normal"" (dismisal/minimizing)",tuga,2,3,0.6666666666666666,Experience treated as normal,sadness
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,bes,4,10,0.4,Lack of recognition as violence,anger
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,strah,2,10,0.2,Lack of recognition as violence,fear
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,tuga,4,10,0.4,Lack of recognition as violence,sadness
+1.0,phase_1,phase 1,6,Fear,bes,1,8,0.125,Fear,anger
+1.0,phase_1,phase 1,6,Fear,strah,2,8,0.25,Fear,fear
+1.0,phase_1,phase 1,6,Fear,tuga,5,8,0.625,Fear,sadness
+1.0,phase_1,phase 1,7,Self-blame,bes,2,8,0.25,Self-blame,anger
+1.0,phase_1,phase 1,7,Self-blame,gađenje,1,8,0.125,Self-blame,disgust
+1.0,phase_1,phase 1,7,Self-blame,tuga,5,8,0.625,Self-blame,sadness
+1.0,phase_1,phase 1,9,Managed to escape/defend,tuga,2,2,1.0,Escaped or defended oneself,sadness
+2.0,phase_2,phases 2-3,1,Demotivated by previous cases of reporting,strah,1,6,0.16666666666666666,Demotivated by previous cases of reporting,fear
+2.0,phase_2,phases 2-3,1,Demotivated by previous cases of reporting,tuga,5,6,0.8333333333333334,Demotivated by previous cases of reporting,sadness
+2.0,phase_2,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),bes,5,24,0.20833333333333334,Gaslighting or self-doubt,anger
+2.0,phase_2,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),radost,3,24,0.125,Gaslighting or self-doubt,joy
+2.0,phase_2,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),strah,7,24,0.2916666666666667,Gaslighting or self-doubt,fear
+2.0,phase_2,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,9,24,0.375,Gaslighting or self-doubt,sadness
+2.0,phase_2,phases 2-3,11,Shame/embarassment,bes,8,50,0.16,Shame or embarrassment,anger
+2.0,phase_2,phases 2-3,11,Shame/embarassment,gađenje,2,50,0.04,Shame or embarrassment,disgust
+2.0,phase_2,phases 2-3,11,Shame/embarassment,radost,2,50,0.04,Shame or embarrassment,joy
+2.0,phase_2,phases 2-3,11,Shame/embarassment,strah,9,50,0.18,Shame or embarrassment,fear
+2.0,phase_2,phases 2-3,11,Shame/embarassment,tuga,29,50,0.58,Shame or embarrassment,sadness
+2.0,phase_2,phases 2-3,12,Lack of support from others,bes,6,28,0.21428571428571427,Lack of support,anger
+2.0,phase_2,phases 2-3,12,Lack of support from others,gađenje,2,28,0.07142857142857142,Lack of support,disgust
+2.0,phase_2,phases 2-3,12,Lack of support from others,neutralno,1,28,0.03571428571428571,Lack of support,neutral
+2.0,phase_2,phases 2-3,12,Lack of support from others,radost,1,28,0.03571428571428571,Lack of support,joy
+2.0,phase_2,phases 2-3,12,Lack of support from others,strah,3,28,0.10714285714285714,Lack of support,fear
+2.0,phase_2,phases 2-3,12,Lack of support from others,tuga,15,28,0.5357142857142857,Lack of support,sadness
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",bes,7,39,0.1794871794871795,Perpetrator status or power,anger
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",gađenje,4,39,0.10256410256410256,Perpetrator status or power,disgust
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",iščekivanje,1,39,0.02564102564102564,Perpetrator status or power,anticipation
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",radost,2,39,0.05128205128205128,Perpetrator status or power,joy
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",strah,7,39,0.1794871794871795,Perpetrator status or power,fear
+2.0,phase_2,phases 2-3,14,"Perpetrator was respected, powerfull, influential",tuga,18,39,0.46153846153846156,Perpetrator status or power,sadness
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,bes,6,36,0.16666666666666666,Invisible violence or lack of evidence,anger
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,gađenje,2,36,0.05555555555555555,Invisible violence or lack of evidence,disgust
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,neutralno,1,36,0.027777777777777776,Invisible violence or lack of evidence,neutral
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,poverenje,1,36,0.027777777777777776,Invisible violence or lack of evidence,trust
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,radost,1,36,0.027777777777777776,Invisible violence or lack of evidence,joy
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,strah,10,36,0.2777777777777778,Invisible violence or lack of evidence,fear
+2.0,phase_2,phases 2-3,15,Invisible violence / lack of physical evidence,tuga,15,36,0.4166666666666667,Invisible violence or lack of evidence,sadness
+2.0,phase_2,phases 2-3,16,"""No one would believe""",bes,5,33,0.15151515151515152,No one would believe,anger
+2.0,phase_2,phases 2-3,16,"""No one would believe""",gađenje,4,33,0.12121212121212122,No one would believe,disgust
+2.0,phase_2,phases 2-3,16,"""No one would believe""",radost,4,33,0.12121212121212122,No one would believe,joy
+2.0,phase_2,phases 2-3,16,"""No one would believe""",strah,8,33,0.24242424242424243,No one would believe,fear
+2.0,phase_2,phases 2-3,16,"""No one would believe""",tuga,12,33,0.36363636363636365,No one would believe,sadness
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,bes,5,24,0.20833333333333334,Perpetrator was family,anger
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,gađenje,2,24,0.08333333333333333,Perpetrator was family,disgust
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,neutralno,1,24,0.041666666666666664,Perpetrator was family,neutral
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,radost,1,24,0.041666666666666664,Perpetrator was family,joy
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,strah,4,24,0.16666666666666666,Perpetrator was family,fear
+2.0,phase_2,phases 2-3,18,Perpetrator was a family member,tuga,11,24,0.4583333333333333,Perpetrator was family,sadness
+2.0,phase_2,phases 2-3,19,Protection of the family,bes,7,36,0.19444444444444445,Family protection,anger
+2.0,phase_2,phases 2-3,19,Protection of the family,gađenje,4,36,0.1111111111111111,Family protection,disgust
+2.0,phase_2,phases 2-3,19,Protection of the family,radost,3,36,0.08333333333333333,Family protection,joy
+2.0,phase_2,phases 2-3,19,Protection of the family,strah,7,36,0.19444444444444445,Family protection,fear
+2.0,phase_2,phases 2-3,19,Protection of the family,tuga,15,36,0.4166666666666667,Family protection,sadness
+2.0,phase_2,phases 2-3,2,Distrust in institutions,bes,6,29,0.20689655172413793,Distrust in institutions,anger
+2.0,phase_2,phases 2-3,2,Distrust in institutions,gađenje,2,29,0.06896551724137931,Distrust in institutions,disgust
+2.0,phase_2,phases 2-3,2,Distrust in institutions,radost,2,29,0.06896551724137931,Distrust in institutions,joy
+2.0,phase_2,phases 2-3,2,Distrust in institutions,strah,6,29,0.20689655172413793,Distrust in institutions,fear
+2.0,phase_2,phases 2-3,2,Distrust in institutions,tuga,13,29,0.4482758620689655,Distrust in institutions,sadness
+2.0,phase_2,phases 2-3,20,"Belief that perpetartor will change (""it won't happen again"")",bes,1,2,0.5,Belief perpetrator would change,anger
+2.0,phase_2,phases 2-3,20,"Belief that perpetartor will change (""it won't happen again"")",tuga,1,2,0.5,Belief perpetrator would change,sadness
+2.0,phase_2,phases 2-3,22,Dependent on the perpetrator,bes,2,8,0.25,Dependence on perpetrator,anger
+2.0,phase_2,phases 2-3,22,Dependent on the perpetrator,gađenje,2,8,0.25,Dependence on perpetrator,disgust
+2.0,phase_2,phases 2-3,22,Dependent on the perpetrator,strah,1,8,0.125,Dependence on perpetrator,fear
+2.0,phase_2,phases 2-3,22,Dependent on the perpetrator,tuga,3,8,0.375,Dependence on perpetrator,sadness
+2.0,phase_2,phases 2-3,23,I can deal with it,bes,3,6,0.5,I can deal with it,anger
+2.0,phase_2,phases 2-3,23,I can deal with it,strah,2,6,0.3333333333333333,I can deal with it,fear
+2.0,phase_2,phases 2-3,23,I can deal with it,tuga,1,6,0.16666666666666666,I can deal with it,sadness
+2.0,phase_2,phases 2-3,24,Blaming the victim,bes,5,12,0.4166666666666667,Blaming the victim,anger
+2.0,phase_2,phases 2-3,24,Blaming the victim,gađenje,1,12,0.08333333333333333,Blaming the victim,disgust
+2.0,phase_2,phases 2-3,24,Blaming the victim,strah,2,12,0.16666666666666666,Blaming the victim,fear
+2.0,phase_2,phases 2-3,24,Blaming the victim,tuga,4,12,0.3333333333333333,Blaming the victim,sadness
+2.0,phase_2,phases 2-3,25,OTHER,tuga,1,1,1.0,OTHER,sadness
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,bes,7,47,0.14893617021276595,Others minimized the experience,anger
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,gađenje,5,47,0.10638297872340426,Others minimized the experience,disgust
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,neutralno,1,47,0.02127659574468085,Others minimized the experience,neutral
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,poverenje,1,47,0.02127659574468085,Others minimized the experience,trust
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,radost,3,47,0.06382978723404255,Others minimized the experience,joy
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,strah,4,47,0.0851063829787234,Others minimized the experience,fear
+2.0,phase_2,phases 2-3,3,Others minimized victims experience,tuga,26,47,0.5531914893617021,Others minimized the experience,sadness
+2.0,phase_2,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",radost,1,6,0.16666666666666666,Experience treated as normal,joy
+2.0,phase_2,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",strah,1,6,0.16666666666666666,Experience treated as normal,fear
+2.0,phase_2,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",tuga,4,6,0.6666666666666666,Experience treated as normal,sadness
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,bes,28,179,0.1564245810055866,Lack of recognition as violence,anger
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,gađenje,23,179,0.12849162011173185,Lack of recognition as violence,disgust
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,neutralno,4,179,0.0223463687150838,Lack of recognition as violence,neutral
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,poverenje,5,179,0.027932960893854747,Lack of recognition as violence,trust
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,radost,7,179,0.03910614525139665,Lack of recognition as violence,joy
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,strah,32,179,0.1787709497206704,Lack of recognition as violence,fear
+2.0,phase_2,phases 2-3,5,Lack of knowledge/awarenes that it is violence,tuga,80,179,0.44692737430167595,Lack of recognition as violence,sadness
+2.0,phase_2,phases 2-3,6,Fear,bes,9,81,0.1111111111111111,Fear,anger
+2.0,phase_2,phases 2-3,6,Fear,gađenje,5,81,0.06172839506172839,Fear,disgust
+2.0,phase_2,phases 2-3,6,Fear,iščekivanje,1,81,0.012345679012345678,Fear,anticipation
+2.0,phase_2,phases 2-3,6,Fear,neutralno,1,81,0.012345679012345678,Fear,neutral
+2.0,phase_2,phases 2-3,6,Fear,poverenje,2,81,0.024691358024691357,Fear,trust
+2.0,phase_2,phases 2-3,6,Fear,radost,7,81,0.08641975308641975,Fear,joy
+2.0,phase_2,phases 2-3,6,Fear,strah,16,81,0.19753086419753085,Fear,fear
+2.0,phase_2,phases 2-3,6,Fear,tuga,40,81,0.49382716049382713,Fear,sadness
+2.0,phase_2,phases 2-3,7,Self-blame,bes,10,61,0.16393442622950818,Self-blame,anger
+2.0,phase_2,phases 2-3,7,Self-blame,gađenje,3,61,0.04918032786885246,Self-blame,disgust
+2.0,phase_2,phases 2-3,7,Self-blame,neutralno,3,61,0.04918032786885246,Self-blame,neutral
+2.0,phase_2,phases 2-3,7,Self-blame,radost,4,61,0.06557377049180328,Self-blame,joy
+2.0,phase_2,phases 2-3,7,Self-blame,strah,10,61,0.16393442622950818,Self-blame,fear
+2.0,phase_2,phases 2-3,7,Self-blame,tuga,31,61,0.5081967213114754,Self-blame,sadness
+2.0,phase_2,phases 2-3,8,"Kept from reporting by others (""advised me not to report"")",bes,1,2,0.5,Discouraged by others,anger
+2.0,phase_2,phases 2-3,8,"Kept from reporting by others (""advised me not to report"")",tuga,1,2,0.5,Discouraged by others,sadness
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,bes,2,43,0.046511627906976744,Escaped or defended oneself,anger
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,gađenje,6,43,0.13953488372093023,Escaped or defended oneself,disgust
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,iščekivanje,1,43,0.023255813953488372,Escaped or defended oneself,anticipation
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,neutralno,1,43,0.023255813953488372,Escaped or defended oneself,neutral
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,poverenje,1,43,0.023255813953488372,Escaped or defended oneself,trust
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,radost,5,43,0.11627906976744186,Escaped or defended oneself,joy
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,strah,6,43,0.13953488372093023,Escaped or defended oneself,fear
+2.0,phase_2,phases 2-3,9,Managed to escape/defend,tuga,21,43,0.4883720930232558,Escaped or defended oneself,sadness
+3.0,phase_3,phases 2-3,1,Demotivated by previous cases of reporting,tuga,1,1,1.0,Demotivated by previous cases of reporting,sadness
+3.0,phase_3,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),bes,3,14,0.21428571428571427,Gaslighting or self-doubt,anger
+3.0,phase_3,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),gađenje,3,14,0.21428571428571427,Gaslighting or self-doubt,disgust
+3.0,phase_3,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),radost,1,14,0.07142857142857142,Gaslighting or self-doubt,joy
+3.0,phase_3,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),strah,3,14,0.21428571428571427,Gaslighting or self-doubt,fear
+3.0,phase_3,phases 2-3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,4,14,0.2857142857142857,Gaslighting or self-doubt,sadness
+3.0,phase_3,phases 2-3,11,Shame/embarassment,bes,4,15,0.26666666666666666,Shame or embarrassment,anger
+3.0,phase_3,phases 2-3,11,Shame/embarassment,gađenje,1,15,0.06666666666666667,Shame or embarrassment,disgust
+3.0,phase_3,phases 2-3,11,Shame/embarassment,strah,3,15,0.2,Shame or embarrassment,fear
+3.0,phase_3,phases 2-3,11,Shame/embarassment,tuga,7,15,0.4666666666666667,Shame or embarrassment,sadness
+3.0,phase_3,phases 2-3,12,Lack of support from others,bes,5,17,0.29411764705882354,Lack of support,anger
+3.0,phase_3,phases 2-3,12,Lack of support from others,gađenje,2,17,0.11764705882352941,Lack of support,disgust
+3.0,phase_3,phases 2-3,12,Lack of support from others,neutralno,1,17,0.058823529411764705,Lack of support,neutral
+3.0,phase_3,phases 2-3,12,Lack of support from others,strah,3,17,0.17647058823529413,Lack of support,fear
+3.0,phase_3,phases 2-3,12,Lack of support from others,tuga,6,17,0.35294117647058826,Lack of support,sadness
+3.0,phase_3,phases 2-3,14,"Perpetrator was respected, powerfull, influential",bes,3,14,0.21428571428571427,Perpetrator status or power,anger
+3.0,phase_3,phases 2-3,14,"Perpetrator was respected, powerfull, influential",strah,3,14,0.21428571428571427,Perpetrator status or power,fear
+3.0,phase_3,phases 2-3,14,"Perpetrator was respected, powerfull, influential",tuga,8,14,0.5714285714285714,Perpetrator status or power,sadness
+3.0,phase_3,phases 2-3,15,Invisible violence / lack of physical evidence,bes,2,11,0.18181818181818182,Invisible violence or lack of evidence,anger
+3.0,phase_3,phases 2-3,15,Invisible violence / lack of physical evidence,strah,4,11,0.36363636363636365,Invisible violence or lack of evidence,fear
+3.0,phase_3,phases 2-3,15,Invisible violence / lack of physical evidence,tuga,5,11,0.45454545454545453,Invisible violence or lack of evidence,sadness
+3.0,phase_3,phases 2-3,16,"""No one would believe""",gađenje,1,13,0.07692307692307693,No one would believe,disgust
+3.0,phase_3,phases 2-3,16,"""No one would believe""",neutralno,1,13,0.07692307692307693,No one would believe,neutral
+3.0,phase_3,phases 2-3,16,"""No one would believe""",poverenje,1,13,0.07692307692307693,No one would believe,trust
+3.0,phase_3,phases 2-3,16,"""No one would believe""",strah,3,13,0.23076923076923078,No one would believe,fear
+3.0,phase_3,phases 2-3,16,"""No one would believe""",tuga,7,13,0.5384615384615384,No one would believe,sadness
+3.0,phase_3,phases 2-3,18,Perpetrator was a family member,gađenje,3,5,0.6,Perpetrator was family,disgust
+3.0,phase_3,phases 2-3,18,Perpetrator was a family member,strah,1,5,0.2,Perpetrator was family,fear
+3.0,phase_3,phases 2-3,18,Perpetrator was a family member,tuga,1,5,0.2,Perpetrator was family,sadness
+3.0,phase_3,phases 2-3,19,Protection of the family,bes,2,12,0.16666666666666666,Family protection,anger
+3.0,phase_3,phases 2-3,19,Protection of the family,gađenje,2,12,0.16666666666666666,Family protection,disgust
+3.0,phase_3,phases 2-3,19,Protection of the family,strah,1,12,0.08333333333333333,Family protection,fear
+3.0,phase_3,phases 2-3,19,Protection of the family,tuga,7,12,0.5833333333333334,Family protection,sadness
+3.0,phase_3,phases 2-3,2,Distrust in institutions,strah,3,5,0.6,Distrust in institutions,fear
+3.0,phase_3,phases 2-3,2,Distrust in institutions,tuga,2,5,0.4,Distrust in institutions,sadness
+3.0,phase_3,phases 2-3,22,Dependent on the perpetrator,tuga,1,1,1.0,Dependence on perpetrator,sadness
+3.0,phase_3,phases 2-3,23,I can deal with it,strah,3,5,0.6,I can deal with it,fear
+3.0,phase_3,phases 2-3,23,I can deal with it,tuga,2,5,0.4,I can deal with it,sadness
+3.0,phase_3,phases 2-3,24,Blaming the victim,bes,1,8,0.125,Blaming the victim,anger
+3.0,phase_3,phases 2-3,24,Blaming the victim,radost,1,8,0.125,Blaming the victim,joy
+3.0,phase_3,phases 2-3,24,Blaming the victim,strah,1,8,0.125,Blaming the victim,fear
+3.0,phase_3,phases 2-3,24,Blaming the victim,tuga,5,8,0.625,Blaming the victim,sadness
+3.0,phase_3,phases 2-3,25,OTHER,bes,2,4,0.5,OTHER,anger
+3.0,phase_3,phases 2-3,25,OTHER,tuga,2,4,0.5,OTHER,sadness
+3.0,phase_3,phases 2-3,3,Others minimized victims experience,bes,2,12,0.16666666666666666,Others minimized the experience,anger
+3.0,phase_3,phases 2-3,3,Others minimized victims experience,gađenje,1,12,0.08333333333333333,Others minimized the experience,disgust
+3.0,phase_3,phases 2-3,3,Others minimized victims experience,strah,2,12,0.16666666666666666,Others minimized the experience,fear
+3.0,phase_3,phases 2-3,3,Others minimized victims experience,tuga,7,12,0.5833333333333334,Others minimized the experience,sadness
+3.0,phase_3,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",bes,2,8,0.25,Experience treated as normal,anger
+3.0,phase_3,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",gađenje,3,8,0.375,Experience treated as normal,disgust
+3.0,phase_3,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",neutralno,1,8,0.125,Experience treated as normal,neutral
+3.0,phase_3,phases 2-3,4,"""I tought that was normal"" (dismisal/minimizing)",tuga,2,8,0.25,Experience treated as normal,sadness
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,bes,10,55,0.18181818181818182,Lack of recognition as violence,anger
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,gađenje,8,55,0.14545454545454545,Lack of recognition as violence,disgust
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,poverenje,1,55,0.01818181818181818,Lack of recognition as violence,trust
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,radost,1,55,0.01818181818181818,Lack of recognition as violence,joy
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,strah,12,55,0.21818181818181817,Lack of recognition as violence,fear
+3.0,phase_3,phases 2-3,5,Lack of knowledge/awarenes that it is violence,tuga,23,55,0.41818181818181815,Lack of recognition as violence,sadness
+3.0,phase_3,phases 2-3,6,Fear,bes,9,41,0.21951219512195122,Fear,anger
+3.0,phase_3,phases 2-3,6,Fear,gađenje,6,41,0.14634146341463414,Fear,disgust
+3.0,phase_3,phases 2-3,6,Fear,radost,1,41,0.024390243902439025,Fear,joy
+3.0,phase_3,phases 2-3,6,Fear,strah,4,41,0.0975609756097561,Fear,fear
+3.0,phase_3,phases 2-3,6,Fear,tuga,21,41,0.5121951219512195,Fear,sadness
+3.0,phase_3,phases 2-3,7,Self-blame,bes,4,23,0.17391304347826086,Self-blame,anger
+3.0,phase_3,phases 2-3,7,Self-blame,gađenje,4,23,0.17391304347826086,Self-blame,disgust
+3.0,phase_3,phases 2-3,7,Self-blame,neutralno,1,23,0.043478260869565216,Self-blame,neutral
+3.0,phase_3,phases 2-3,7,Self-blame,radost,1,23,0.043478260869565216,Self-blame,joy
+3.0,phase_3,phases 2-3,7,Self-blame,strah,4,23,0.17391304347826086,Self-blame,fear
+3.0,phase_3,phases 2-3,7,Self-blame,tuga,9,23,0.391304347826087,Self-blame,sadness
+3.0,phase_3,phases 2-3,8,"Kept from reporting by others (""advised me not to report"")",strah,1,5,0.2,Discouraged by others,fear
+3.0,phase_3,phases 2-3,8,"Kept from reporting by others (""advised me not to report"")",tuga,4,5,0.8,Discouraged by others,sadness
+3.0,phase_3,phases 2-3,9,Managed to escape/defend,bes,2,8,0.25,Escaped or defended oneself,anger
+3.0,phase_3,phases 2-3,9,Managed to escape/defend,gađenje,1,8,0.125,Escaped or defended oneself,disgust
+3.0,phase_3,phases 2-3,9,Managed to escape/defend,strah,4,8,0.5,Escaped or defended oneself,fear
+3.0,phase_3,phases 2-3,9,Managed to escape/defend,tuga,1,8,0.125,Escaped or defended oneself,sadness
+4.0,phase_4,phases 4-5,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),bes,2,4,0.5,Gaslighting or self-doubt,anger
+4.0,phase_4,phases 4-5,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),gađenje,1,4,0.25,Gaslighting or self-doubt,disgust
+4.0,phase_4,phases 4-5,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,1,4,0.25,Gaslighting or self-doubt,sadness
+4.0,phase_4,phases 4-5,11,Shame/embarassment,bes,1,2,0.5,Shame or embarrassment,anger
+4.0,phase_4,phases 4-5,11,Shame/embarassment,tuga,1,2,0.5,Shame or embarrassment,sadness
+4.0,phase_4,phases 4-5,12,Lack of support from others,bes,2,5,0.4,Lack of support,anger
+4.0,phase_4,phases 4-5,12,Lack of support from others,gađenje,1,5,0.2,Lack of support,disgust
+4.0,phase_4,phases 4-5,12,Lack of support from others,tuga,2,5,0.4,Lack of support,sadness
+4.0,phase_4,phases 4-5,14,"Perpetrator was respected, powerfull, influential",gađenje,1,3,0.3333333333333333,Perpetrator status or power,disgust
+4.0,phase_4,phases 4-5,14,"Perpetrator was respected, powerfull, influential",strah,2,3,0.6666666666666666,Perpetrator status or power,fear
+4.0,phase_4,phases 4-5,15,Invisible violence / lack of physical evidence,strah,1,1,1.0,Invisible violence or lack of evidence,fear
+4.0,phase_4,phases 4-5,16,"""No one would believe""",bes,1,2,0.5,No one would believe,anger
+4.0,phase_4,phases 4-5,16,"""No one would believe""",radost,1,2,0.5,No one would believe,joy
+4.0,phase_4,phases 4-5,18,Perpetrator was a family member,bes,1,2,0.5,Perpetrator was family,anger
+4.0,phase_4,phases 4-5,18,Perpetrator was a family member,tuga,1,2,0.5,Perpetrator was family,sadness
+4.0,phase_4,phases 4-5,19,Protection of the family,bes,1,1,1.0,Family protection,anger
+4.0,phase_4,phases 4-5,2,Distrust in institutions,bes,1,4,0.25,Distrust in institutions,anger
+4.0,phase_4,phases 4-5,2,Distrust in institutions,strah,1,4,0.25,Distrust in institutions,fear
+4.0,phase_4,phases 4-5,2,Distrust in institutions,tuga,2,4,0.5,Distrust in institutions,sadness
+4.0,phase_4,phases 4-5,20,"Belief that perpetartor will change (""it won't happen again"")",bes,1,1,1.0,Belief perpetrator would change,anger
+4.0,phase_4,phases 4-5,22,Dependent on the perpetrator,bes,1,1,1.0,Dependence on perpetrator,anger
+4.0,phase_4,phases 4-5,23,I can deal with it,tuga,1,1,1.0,I can deal with it,sadness
+4.0,phase_4,phases 4-5,24,Blaming the victim,gađenje,1,1,1.0,Blaming the victim,disgust
+4.0,phase_4,phases 4-5,3,Others minimized victims experience,bes,1,5,0.2,Others minimized the experience,anger
+4.0,phase_4,phases 4-5,3,Others minimized victims experience,radost,1,5,0.2,Others minimized the experience,joy
+4.0,phase_4,phases 4-5,3,Others minimized victims experience,tuga,3,5,0.6,Others minimized the experience,sadness
+4.0,phase_4,phases 4-5,4,"""I tought that was normal"" (dismisal/minimizing)",bes,1,4,0.25,Experience treated as normal,anger
+4.0,phase_4,phases 4-5,4,"""I tought that was normal"" (dismisal/minimizing)",gađenje,1,4,0.25,Experience treated as normal,disgust
+4.0,phase_4,phases 4-5,4,"""I tought that was normal"" (dismisal/minimizing)",radost,1,4,0.25,Experience treated as normal,joy
+4.0,phase_4,phases 4-5,4,"""I tought that was normal"" (dismisal/minimizing)",tuga,1,4,0.25,Experience treated as normal,sadness
+4.0,phase_4,phases 4-5,5,Lack of knowledge/awarenes that it is violence,bes,2,17,0.11764705882352941,Lack of recognition as violence,anger
+4.0,phase_4,phases 4-5,5,Lack of knowledge/awarenes that it is violence,gađenje,4,17,0.23529411764705882,Lack of recognition as violence,disgust
+4.0,phase_4,phases 4-5,5,Lack of knowledge/awarenes that it is violence,strah,4,17,0.23529411764705882,Lack of recognition as violence,fear
+4.0,phase_4,phases 4-5,5,Lack of knowledge/awarenes that it is violence,tuga,7,17,0.4117647058823529,Lack of recognition as violence,sadness
+4.0,phase_4,phases 4-5,6,Fear,bes,2,16,0.125,Fear,anger
+4.0,phase_4,phases 4-5,6,Fear,gađenje,3,16,0.1875,Fear,disgust
+4.0,phase_4,phases 4-5,6,Fear,radost,1,16,0.0625,Fear,joy
+4.0,phase_4,phases 4-5,6,Fear,strah,4,16,0.25,Fear,fear
+4.0,phase_4,phases 4-5,6,Fear,tuga,6,16,0.375,Fear,sadness
+4.0,phase_4,phases 4-5,7,Self-blame,tuga,1,1,1.0,Self-blame,sadness
+4.0,phase_4,phases 4-5,8,"Kept from reporting by others (""advised me not to report"")",strah,1,1,1.0,Discouraged by others,fear
+4.0,phase_4,phases 4-5,9,Managed to escape/defend,gađenje,2,2,1.0,Escaped or defended oneself,disgust
+5.0,phase_5,phases 4-5,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,1,1,1.0,Gaslighting or self-doubt,sadness
+5.0,phase_5,phases 4-5,11,Shame/embarassment,gađenje,2,4,0.5,Shame or embarrassment,disgust
+5.0,phase_5,phases 4-5,11,Shame/embarassment,neutralno,1,4,0.25,Shame or embarrassment,neutral
+5.0,phase_5,phases 4-5,11,Shame/embarassment,strah,1,4,0.25,Shame or embarrassment,fear
+5.0,phase_5,phases 4-5,12,Lack of support from others,bes,3,6,0.5,Lack of support,anger
+5.0,phase_5,phases 4-5,12,Lack of support from others,strah,1,6,0.16666666666666666,Lack of support,fear
+5.0,phase_5,phases 4-5,12,Lack of support from others,tuga,2,6,0.3333333333333333,Lack of support,sadness
+5.0,phase_5,phases 4-5,14,"Perpetrator was respected, powerfull, influential",strah,1,1,1.0,Perpetrator status or power,fear
+5.0,phase_5,phases 4-5,16,"""No one would believe""",tuga,1,1,1.0,No one would believe,sadness
+5.0,phase_5,phases 4-5,18,Perpetrator was a family member,gađenje,1,3,0.3333333333333333,Perpetrator was family,disgust
+5.0,phase_5,phases 4-5,18,Perpetrator was a family member,strah,2,3,0.6666666666666666,Perpetrator was family,fear
+5.0,phase_5,phases 4-5,2,Distrust in institutions,gađenje,1,3,0.3333333333333333,Distrust in institutions,disgust
+5.0,phase_5,phases 4-5,2,Distrust in institutions,strah,1,3,0.3333333333333333,Distrust in institutions,fear
+5.0,phase_5,phases 4-5,2,Distrust in institutions,tuga,1,3,0.3333333333333333,Distrust in institutions,sadness
+5.0,phase_5,phases 4-5,22,Dependent on the perpetrator,strah,1,1,1.0,Dependence on perpetrator,fear
+5.0,phase_5,phases 4-5,23,I can deal with it,tuga,1,1,1.0,I can deal with it,sadness
+5.0,phase_5,phases 4-5,25,OTHER,strah,2,2,1.0,OTHER,fear
+5.0,phase_5,phases 4-5,3,Others minimized victims experience,bes,1,5,0.2,Others minimized the experience,anger
+5.0,phase_5,phases 4-5,3,Others minimized victims experience,gađenje,1,5,0.2,Others minimized the experience,disgust
+5.0,phase_5,phases 4-5,3,Others minimized victims experience,radost,1,5,0.2,Others minimized the experience,joy
+5.0,phase_5,phases 4-5,3,Others minimized victims experience,strah,1,5,0.2,Others minimized the experience,fear
+5.0,phase_5,phases 4-5,3,Others minimized victims experience,tuga,1,5,0.2,Others minimized the experience,sadness
+5.0,phase_5,phases 4-5,4,"""I tought that was normal"" (dismisal/minimizing)",radost,1,1,1.0,Experience treated as normal,joy
+5.0,phase_5,phases 4-5,5,Lack of knowledge/awarenes that it is violence,gađenje,1,4,0.25,Lack of recognition as violence,disgust
+5.0,phase_5,phases 4-5,5,Lack of knowledge/awarenes that it is violence,strah,1,4,0.25,Lack of recognition as violence,fear
+5.0,phase_5,phases 4-5,5,Lack of knowledge/awarenes that it is violence,tuga,2,4,0.5,Lack of recognition as violence,sadness
+5.0,phase_5,phases 4-5,6,Fear,bes,2,8,0.25,Fear,anger
+5.0,phase_5,phases 4-5,6,Fear,gađenje,1,8,0.125,Fear,disgust
+5.0,phase_5,phases 4-5,6,Fear,strah,1,8,0.125,Fear,fear
+5.0,phase_5,phases 4-5,6,Fear,tuga,4,8,0.5,Fear,sadness
+5.0,phase_5,phases 4-5,7,Self-blame,gađenje,2,4,0.5,Self-blame,disgust
+5.0,phase_5,phases 4-5,7,Self-blame,strah,2,4,0.5,Self-blame,fear
+5.0,phase_5,phases 4-5,8,"Kept from reporting by others (""advised me not to report"")",strah,1,1,1.0,Discouraged by others,fear
+5.0,phase_5,phases 4-5,9,Managed to escape/defend,gađenje,1,1,1.0,Escaped or defended oneself,disgust
+6.0,phase_6,phases 6-8,14,"Perpetrator was respected, powerfull, influential",gađenje,1,1,1.0,Perpetrator status or power,disgust
+6.0,phase_6,phases 6-8,15,Invisible violence / lack of physical evidence,gađenje,1,1,1.0,Invisible violence or lack of evidence,disgust
+6.0,phase_6,phases 6-8,18,Perpetrator was a family member,tuga,1,1,1.0,Perpetrator was family,sadness
+6.0,phase_6,phases 6-8,19,Protection of the family,tuga,1,1,1.0,Family protection,sadness
+6.0,phase_6,phases 6-8,4,"""I tought that was normal"" (dismisal/minimizing)",gađenje,1,1,1.0,Experience treated as normal,disgust
+6.0,phase_6,phases 6-8,5,Lack of knowledge/awarenes that it is violence,tuga,1,1,1.0,Lack of recognition as violence,sadness
+6.0,phase_6,phases 6-8,6,Fear,tuga,1,1,1.0,Fear,sadness
+6.0,phase_6,phases 6-8,7,Self-blame,gađenje,1,1,1.0,Self-blame,disgust
+7.0,phase_7,phases 6-8,11,Shame/embarassment,tuga,1,1,1.0,Shame or embarrassment,sadness

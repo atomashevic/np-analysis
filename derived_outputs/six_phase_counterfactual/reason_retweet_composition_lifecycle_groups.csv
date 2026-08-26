@@ -1,0 +1,64 @@
+lifecycle_group,motive_family,motive_label,unique_retweets,fractional_retweet_weight,group_total,group_share
+contraction,2,Distrust in institutions,45,43.0,161.0,0.2670807453416149
+contraction,3,Others minimized victims experience,5,2.3333333333333335,161.0,0.014492753623188406
+contraction,4,"""I tought that was normal"" (dismisal/minimizing)",3,3.0,161.0,0.018633540372670808
+contraction,5,Lack of knowledge/awarenes that it is violence,29,22.5,161.0,0.13975155279503104
+contraction,6,Fear,16,12.2,161.0,0.07577639751552795
+contraction,7,Self-blame,10,5.2,161.0,0.03229813664596273
+contraction,9,Managed to escape/defend,6,6.0,161.0,0.037267080745341616
+contraction,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),22,15.5,161.0,0.09627329192546584
+contraction,11,Shame/embarassment,17,6.7,161.0,0.04161490683229814
+contraction,12,Lack of support from others,3,1.7,161.0,0.010559006211180125
+contraction,14,"Perpetrator was respected, powerfull, influential",25,21.5,161.0,0.13354037267080746
+contraction,15,Invisible violence / lack of physical evidence,10,7.833333333333333,161.0,0.048654244306418216
+contraction,16,"""No one would believe""",4,2.3333333333333335,161.0,0.014492753623188406
+contraction,17,Blaming the victim,1,1.0,161.0,0.006211180124223602
+contraction,18,Perpetrator was a family member,13,4.5,161.0,0.027950310559006212
+contraction,19,Protection of the family,14,5.5,161.0,0.034161490683229816
+contraction,20,"Belief that perpetartor will change (""it won't happen again"")",1,0.2,161.0,0.0012422360248447205
+emergence,2,Distrust in institutions,74,55.833333333333336,319.0,0.1750261233019854
+emergence,3,Others minimized victims experience,14,6.333333333333333,319.0,0.019853709508881923
+emergence,4,"""I tought that was normal"" (dismisal/minimizing)",11,5.666666666666666,319.0,0.017763845350052244
+emergence,5,Lack of knowledge/awarenes that it is violence,79,55.666666666666664,319.0,0.17450365726227796
+emergence,6,Fear,51,46.5,319.0,0.14576802507836992
+emergence,7,Self-blame,23,16.0,319.0,0.050156739811912224
+emergence,9,Managed to escape/defend,16,15.0,319.0,0.047021943573667714
+emergence,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),26,8.666666666666666,319.0,0.027168234064785787
+emergence,11,Shame/embarassment,35,24.5,319.0,0.0768025078369906
+emergence,12,Lack of support from others,15,6.166666666666666,319.0,0.019331243469174503
+emergence,14,"Perpetrator was respected, powerfull, influential",13,5.166666666666667,319.0,0.01619644723092999
+emergence,15,Invisible violence / lack of physical evidence,94,59.666666666666664,319.0,0.187042842215256
+emergence,16,"""No one would believe""",5,2.5,319.0,0.007836990595611285
+emergence,19,Protection of the family,4,1.3333333333333333,319.0,0.004179728317659352
+emergence,22,Dependent on the perpetrator,12,10.0,319.0,0.03134796238244514
+later afterlife,2,Distrust in institutions,1,1.0,76.0,0.013157894736842105
+later afterlife,5,Lack of knowledge/awarenes that it is violence,6,5.5,76.0,0.07236842105263158
+later afterlife,6,Fear,42,41.5,76.0,0.5460526315789473
+later afterlife,7,Self-blame,2,1.5,76.0,0.019736842105263157
+later afterlife,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),2,2.0,76.0,0.02631578947368421
+later afterlife,11,Shame/embarassment,21,19.833333333333332,76.0,0.26096491228070173
+later afterlife,15,Invisible violence / lack of physical evidence,2,1.5,76.0,0.019736842105263157
+later afterlife,18,Perpetrator was a family member,2,1.3333333333333333,76.0,0.017543859649122806
+later afterlife,19,Protection of the family,3,1.8333333333333333,76.0,0.02412280701754386
+viral amplification,1,Demotivated by previous cases of reporting,4,4.0,4739.0,0.0008440599282549061
+viral amplification,2,Distrust in institutions,413,330.1666666666667,4739.0,0.06967011324470704
+viral amplification,3,Others minimized victims experience,299,169.75,4739.0,0.03581979320531758
+viral amplification,4,"""I tought that was normal"" (dismisal/minimizing)",191,169.5,4739.0,0.03576703945980165
+viral amplification,5,Lack of knowledge/awarenes that it is violence,1093,893.9166666666666,4739.0,0.18862980938313287
+viral amplification,6,Fear,858,607.6166666666667,4739.0,0.12821622001828797
+viral amplification,7,Self-blame,419,229.11666666666667,4739.0,0.048347049307167475
+viral amplification,8,"Kept from reporting by others (""advised me not to report"")",40,20.333333333333332,4739.0,0.004290637968629106
+viral amplification,9,Managed to escape/defend,309,252.83333333333334,4739.0,0.05335162129844553
+viral amplification,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),547,434.6666666666667,4739.0,0.09172117887036646
+viral amplification,11,Shame/embarassment,501,220.61666666666667,4739.0,0.0465534219596258
+viral amplification,12,Lack of support from others,318,109.45,4739.0,0.023095589786874867
+viral amplification,14,"Perpetrator was respected, powerfull, influential",129,59.916666666666664,4739.0,0.012643314341984947
+viral amplification,15,Invisible violence / lack of physical evidence,610,501.3333333333333,4739.0,0.10578884434128157
+viral amplification,16,"""No one would believe""",110,55.0,4739.0,0.011605824013504958
+viral amplification,17,Blaming the victim,31,11.5,4739.0,0.002426672293732855
+viral amplification,18,Perpetrator was a family member,317,136.66666666666666,4739.0,0.028838714215375958
+viral amplification,19,Protection of the family,512,253.16666666666666,4739.0,0.0534219596258001
+viral amplification,20,"Belief that perpetartor will change (""it won't happen again"")",113,23.700000000000003,4739.0,0.005001055074910319
+viral amplification,22,Dependent on the perpetrator,278,231.08333333333334,4739.0,0.04876204543855947
+viral amplification,23,I can deal with it,65,23.666666666666664,4739.0,0.00499402124217486
+viral amplification,24,OTHER,1,1.0,4739.0,0.00021101498206372652

@@ -1,0 +1,178 @@
+post_phase_id,post_phase,post_phase_group,motive_family,motive_label,emotion,tweets,phase_reason_total,phase_reason_emotion_share,display_label,emotion_display
+1.0,phase_1,phase 1,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,1,1,1.0,Gaslighting or self-doubt,sadness
+1.0,phase_1,phase 1,11,Shame/embarassment,anger,4,6,0.6666666666666666,Shame or embarrassment,anger
+1.0,phase_1,phase 1,11,Shame/embarassment,fear,1,6,0.16666666666666666,Shame or embarrassment,fear
+1.0,phase_1,phase 1,11,Shame/embarassment,sadness,1,6,0.16666666666666666,Shame or embarrassment,sadness
+1.0,phase_1,phase 1,12,Lack of support from others,fear,2,4,0.5,Lack of support,fear
+1.0,phase_1,phase 1,12,Lack of support from others,sadness,2,4,0.5,Lack of support,sadness
+1.0,phase_1,phase 1,14,"Perpetrator was respected, powerfull, influential",anger,2,3,0.6666666666666666,Perpetrator status or power,anger
+1.0,phase_1,phase 1,14,"Perpetrator was respected, powerfull, influential",fear,1,3,0.3333333333333333,Perpetrator status or power,fear
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,anger,2,7,0.2857142857142857,Invisible violence or lack of evidence,anger
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,fear,3,7,0.42857142857142855,Invisible violence or lack of evidence,fear
+1.0,phase_1,phase 1,15,Invisible violence / lack of physical evidence,sadness,2,7,0.2857142857142857,Invisible violence or lack of evidence,sadness
+1.0,phase_1,phase 1,16,"""No one would believe""",sadness,1,1,1.0,No one would believe,sadness
+1.0,phase_1,phase 1,19,Protection of the family,joy,2,2,1.0,Family protection,joy
+1.0,phase_1,phase 1,2,Distrust in institutions,anger,2,7,0.2857142857142857,Distrust in institutions,anger
+1.0,phase_1,phase 1,2,Distrust in institutions,fear,2,7,0.2857142857142857,Distrust in institutions,fear
+1.0,phase_1,phase 1,2,Distrust in institutions,joy,1,7,0.14285714285714285,Distrust in institutions,joy
+1.0,phase_1,phase 1,2,Distrust in institutions,sadness,2,7,0.2857142857142857,Distrust in institutions,sadness
+1.0,phase_1,phase 1,3,Others minimized victims experience,anger,1,5,0.2,Others minimized the experience,anger
+1.0,phase_1,phase 1,3,Others minimized victims experience,joy,1,5,0.2,Others minimized the experience,joy
+1.0,phase_1,phase 1,3,Others minimized victims experience,sadness,3,5,0.6,Others minimized the experience,sadness
+1.0,phase_1,phase 1,4,"""I tought that was normal"" (dismisal/minimizing)",anger,1,4,0.25,Experience treated as normal,anger
+1.0,phase_1,phase 1,4,"""I tought that was normal"" (dismisal/minimizing)",fear,3,4,0.75,Experience treated as normal,fear
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,anger,4,10,0.4,Lack of knowledge about violence,anger
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,fear,1,10,0.1,Lack of knowledge about violence,fear
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,joy,2,10,0.2,Lack of knowledge about violence,joy
+1.0,phase_1,phase 1,5,Lack of knowledge/awarenes that it is violence,sadness,3,10,0.3,Lack of knowledge about violence,sadness
+1.0,phase_1,phase 1,6,Fear,anger,3,8,0.375,Fear,anger
+1.0,phase_1,phase 1,6,Fear,fear,2,8,0.25,Fear,fear
+1.0,phase_1,phase 1,6,Fear,joy,1,8,0.125,Fear,joy
+1.0,phase_1,phase 1,6,Fear,sadness,2,8,0.25,Fear,sadness
+1.0,phase_1,phase 1,7,Self-blame,anger,2,3,0.6666666666666666,Self-blame,anger
+1.0,phase_1,phase 1,7,Self-blame,sadness,1,3,0.3333333333333333,Self-blame,sadness
+1.0,phase_1,phase 1,8,"Kept from reporting by others (""advised me not to report"")",anger,1,1,1.0,Discouraged by others,anger
+1.0,phase_1,phase 1,9,Managed to escape/defend,fear,1,2,0.5,Escaped or defended oneself,fear
+1.0,phase_1,phase 1,9,Managed to escape/defend,sadness,1,2,0.5,Escaped or defended oneself,sadness
+2.0,phase_2,phase 2,1,Demotivated by previous cases of reporting,anger,2,9,0.2222222222222222,Discouraged by prior reporting outcomes,anger
+2.0,phase_2,phase 2,1,Demotivated by previous cases of reporting,fear,1,9,0.1111111111111111,Discouraged by prior reporting outcomes,fear
+2.0,phase_2,phase 2,1,Demotivated by previous cases of reporting,joy,4,9,0.4444444444444444,Discouraged by prior reporting outcomes,joy
+2.0,phase_2,phase 2,1,Demotivated by previous cases of reporting,sadness,2,9,0.2222222222222222,Discouraged by prior reporting outcomes,sadness
+2.0,phase_2,phase 2,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),anger,8,36,0.2222222222222222,Gaslighting or self-doubt,anger
+2.0,phase_2,phase 2,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),fear,5,36,0.1388888888888889,Gaslighting or self-doubt,fear
+2.0,phase_2,phase 2,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),joy,8,36,0.2222222222222222,Gaslighting or self-doubt,joy
+2.0,phase_2,phase 2,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,15,36,0.4166666666666667,Gaslighting or self-doubt,sadness
+2.0,phase_2,phase 2,11,Shame/embarassment,anger,18,67,0.26865671641791045,Shame or embarrassment,anger
+2.0,phase_2,phase 2,11,Shame/embarassment,fear,10,67,0.14925373134328357,Shame or embarrassment,fear
+2.0,phase_2,phase 2,11,Shame/embarassment,joy,11,67,0.16417910447761194,Shame or embarrassment,joy
+2.0,phase_2,phase 2,11,Shame/embarassment,sadness,28,67,0.417910447761194,Shame or embarrassment,sadness
+2.0,phase_2,phase 2,12,Lack of support from others,anger,7,43,0.16279069767441862,Lack of support,anger
+2.0,phase_2,phase 2,12,Lack of support from others,fear,11,43,0.2558139534883721,Lack of support,fear
+2.0,phase_2,phase 2,12,Lack of support from others,joy,6,43,0.13953488372093023,Lack of support,joy
+2.0,phase_2,phase 2,12,Lack of support from others,sadness,19,43,0.4418604651162791,Lack of support,sadness
+2.0,phase_2,phase 2,14,"Perpetrator was respected, powerfull, influential",anger,16,54,0.2962962962962963,Perpetrator status or power,anger
+2.0,phase_2,phase 2,14,"Perpetrator was respected, powerfull, influential",fear,11,54,0.2037037037037037,Perpetrator status or power,fear
+2.0,phase_2,phase 2,14,"Perpetrator was respected, powerfull, influential",joy,6,54,0.1111111111111111,Perpetrator status or power,joy
+2.0,phase_2,phase 2,14,"Perpetrator was respected, powerfull, influential",sadness,21,54,0.3888888888888889,Perpetrator status or power,sadness
+2.0,phase_2,phase 2,15,Invisible violence / lack of physical evidence,anger,11,49,0.22448979591836735,Invisible violence or lack of evidence,anger
+2.0,phase_2,phase 2,15,Invisible violence / lack of physical evidence,fear,7,49,0.14285714285714285,Invisible violence or lack of evidence,fear
+2.0,phase_2,phase 2,15,Invisible violence / lack of physical evidence,joy,7,49,0.14285714285714285,Invisible violence or lack of evidence,joy
+2.0,phase_2,phase 2,15,Invisible violence / lack of physical evidence,sadness,24,49,0.4897959183673469,Invisible violence or lack of evidence,sadness
+2.0,phase_2,phase 2,16,"""No one would believe""",anger,11,46,0.2391304347826087,No one would believe,anger
+2.0,phase_2,phase 2,16,"""No one would believe""",fear,7,46,0.15217391304347827,No one would believe,fear
+2.0,phase_2,phase 2,16,"""No one would believe""",joy,8,46,0.17391304347826086,No one would believe,joy
+2.0,phase_2,phase 2,16,"""No one would believe""",sadness,20,46,0.43478260869565216,No one would believe,sadness
+2.0,phase_2,phase 2,17,Blaming the victim,anger,4,20,0.2,Victim blaming,anger
+2.0,phase_2,phase 2,17,Blaming the victim,fear,2,20,0.1,Victim blaming,fear
+2.0,phase_2,phase 2,17,Blaming the victim,joy,1,20,0.05,Victim blaming,joy
+2.0,phase_2,phase 2,17,Blaming the victim,sadness,13,20,0.65,Victim blaming,sadness
+2.0,phase_2,phase 2,18,Perpetrator was a family member,anger,4,30,0.13333333333333333,Perpetrator was family,anger
+2.0,phase_2,phase 2,18,Perpetrator was a family member,fear,3,30,0.1,Perpetrator was family,fear
+2.0,phase_2,phase 2,18,Perpetrator was a family member,joy,5,30,0.16666666666666666,Perpetrator was family,joy
+2.0,phase_2,phase 2,18,Perpetrator was a family member,sadness,18,30,0.6,Perpetrator was family,sadness
+2.0,phase_2,phase 2,19,Protection of the family,anger,15,51,0.29411764705882354,Family protection,anger
+2.0,phase_2,phase 2,19,Protection of the family,fear,10,51,0.19607843137254902,Family protection,fear
+2.0,phase_2,phase 2,19,Protection of the family,joy,4,51,0.0784313725490196,Family protection,joy
+2.0,phase_2,phase 2,19,Protection of the family,sadness,22,51,0.43137254901960786,Family protection,sadness
+2.0,phase_2,phase 2,2,Distrust in institutions,anger,5,35,0.14285714285714285,Distrust in institutions,anger
+2.0,phase_2,phase 2,2,Distrust in institutions,fear,8,35,0.22857142857142856,Distrust in institutions,fear
+2.0,phase_2,phase 2,2,Distrust in institutions,joy,5,35,0.14285714285714285,Distrust in institutions,joy
+2.0,phase_2,phase 2,2,Distrust in institutions,sadness,17,35,0.4857142857142857,Distrust in institutions,sadness
+2.0,phase_2,phase 2,20,"Belief that perpetartor will change (""it won't happen again"")",anger,1,3,0.3333333333333333,Belief perpetrator would change,anger
+2.0,phase_2,phase 2,20,"Belief that perpetartor will change (""it won't happen again"")",fear,1,3,0.3333333333333333,Belief perpetrator would change,fear
+2.0,phase_2,phase 2,20,"Belief that perpetartor will change (""it won't happen again"")",sadness,1,3,0.3333333333333333,Belief perpetrator would change,sadness
+2.0,phase_2,phase 2,22,Dependent on the perpetrator,anger,1,11,0.09090909090909091,Dependence on perpetrator,anger
+2.0,phase_2,phase 2,22,Dependent on the perpetrator,joy,3,11,0.2727272727272727,Dependence on perpetrator,joy
+2.0,phase_2,phase 2,22,Dependent on the perpetrator,sadness,7,11,0.6363636363636364,Dependence on perpetrator,sadness
+2.0,phase_2,phase 2,23,I can deal with it,anger,3,11,0.2727272727272727,Belief that one could deal with it,anger
+2.0,phase_2,phase 2,23,I can deal with it,fear,2,11,0.18181818181818182,Belief that one could deal with it,fear
+2.0,phase_2,phase 2,23,I can deal with it,joy,1,11,0.09090909090909091,Belief that one could deal with it,joy
+2.0,phase_2,phase 2,23,I can deal with it,sadness,5,11,0.45454545454545453,Belief that one could deal with it,sadness
+2.0,phase_2,phase 2,24,OTHER,anger,2,7,0.2857142857142857,Other,anger
+2.0,phase_2,phase 2,24,OTHER,fear,1,7,0.14285714285714285,Other,fear
+2.0,phase_2,phase 2,24,OTHER,joy,4,7,0.5714285714285714,Other,joy
+2.0,phase_2,phase 2,3,Others minimized victims experience,anger,10,59,0.1694915254237288,Others minimized the experience,anger
+2.0,phase_2,phase 2,3,Others minimized victims experience,fear,6,59,0.1016949152542373,Others minimized the experience,fear
+2.0,phase_2,phase 2,3,Others minimized victims experience,joy,11,59,0.1864406779661017,Others minimized the experience,joy
+2.0,phase_2,phase 2,3,Others minimized victims experience,sadness,32,59,0.5423728813559322,Others minimized the experience,sadness
+2.0,phase_2,phase 2,4,"""I tought that was normal"" (dismisal/minimizing)",anger,4,13,0.3076923076923077,Experience treated as normal,anger
+2.0,phase_2,phase 2,4,"""I tought that was normal"" (dismisal/minimizing)",fear,4,13,0.3076923076923077,Experience treated as normal,fear
+2.0,phase_2,phase 2,4,"""I tought that was normal"" (dismisal/minimizing)",joy,1,13,0.07692307692307693,Experience treated as normal,joy
+2.0,phase_2,phase 2,4,"""I tought that was normal"" (dismisal/minimizing)",sadness,4,13,0.3076923076923077,Experience treated as normal,sadness
+2.0,phase_2,phase 2,5,Lack of knowledge/awarenes that it is violence,anger,57,232,0.24568965517241378,Lack of knowledge about violence,anger
+2.0,phase_2,phase 2,5,Lack of knowledge/awarenes that it is violence,fear,36,232,0.15517241379310345,Lack of knowledge about violence,fear
+2.0,phase_2,phase 2,5,Lack of knowledge/awarenes that it is violence,joy,42,232,0.1810344827586207,Lack of knowledge about violence,joy
+2.0,phase_2,phase 2,5,Lack of knowledge/awarenes that it is violence,sadness,97,232,0.41810344827586204,Lack of knowledge about violence,sadness
+2.0,phase_2,phase 2,6,Fear,anger,27,122,0.22131147540983606,Fear,anger
+2.0,phase_2,phase 2,6,Fear,fear,23,122,0.1885245901639344,Fear,fear
+2.0,phase_2,phase 2,6,Fear,joy,18,122,0.14754098360655737,Fear,joy
+2.0,phase_2,phase 2,6,Fear,sadness,54,122,0.4426229508196721,Fear,sadness
+2.0,phase_2,phase 2,7,Self-blame,anger,23,87,0.26436781609195403,Self-blame,anger
+2.0,phase_2,phase 2,7,Self-blame,fear,13,87,0.14942528735632185,Self-blame,fear
+2.0,phase_2,phase 2,7,Self-blame,joy,16,87,0.1839080459770115,Self-blame,joy
+2.0,phase_2,phase 2,7,Self-blame,sadness,35,87,0.40229885057471265,Self-blame,sadness
+2.0,phase_2,phase 2,8,"Kept from reporting by others (""advised me not to report"")",anger,3,7,0.42857142857142855,Discouraged by others,anger
+2.0,phase_2,phase 2,8,"Kept from reporting by others (""advised me not to report"")",joy,1,7,0.14285714285714285,Discouraged by others,joy
+2.0,phase_2,phase 2,8,"Kept from reporting by others (""advised me not to report"")",sadness,3,7,0.42857142857142855,Discouraged by others,sadness
+2.0,phase_2,phase 2,9,Managed to escape/defend,anger,11,51,0.21568627450980393,Escaped or defended oneself,anger
+2.0,phase_2,phase 2,9,Managed to escape/defend,fear,7,51,0.13725490196078433,Escaped or defended oneself,fear
+2.0,phase_2,phase 2,9,Managed to escape/defend,joy,6,51,0.11764705882352941,Escaped or defended oneself,joy
+2.0,phase_2,phase 2,9,Managed to escape/defend,sadness,27,51,0.5294117647058824,Escaped or defended oneself,sadness
+3.0,phase_3,phase 3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),anger,1,6,0.16666666666666666,Gaslighting or self-doubt,anger
+3.0,phase_3,phase 3,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,5,6,0.8333333333333334,Gaslighting or self-doubt,sadness
+3.0,phase_3,phase 3,11,Shame/embarassment,anger,3,5,0.6,Shame or embarrassment,anger
+3.0,phase_3,phase 3,11,Shame/embarassment,fear,1,5,0.2,Shame or embarrassment,fear
+3.0,phase_3,phase 3,11,Shame/embarassment,joy,1,5,0.2,Shame or embarrassment,joy
+3.0,phase_3,phase 3,12,Lack of support from others,anger,3,12,0.25,Lack of support,anger
+3.0,phase_3,phase 3,12,Lack of support from others,fear,1,12,0.08333333333333333,Lack of support,fear
+3.0,phase_3,phase 3,12,Lack of support from others,sadness,8,12,0.6666666666666666,Lack of support,sadness
+3.0,phase_3,phase 3,14,"Perpetrator was respected, powerfull, influential",anger,2,4,0.5,Perpetrator status or power,anger
+3.0,phase_3,phase 3,14,"Perpetrator was respected, powerfull, influential",sadness,2,4,0.5,Perpetrator status or power,sadness
+3.0,phase_3,phase 3,16,"""No one would believe""",anger,1,3,0.3333333333333333,No one would believe,anger
+3.0,phase_3,phase 3,16,"""No one would believe""",joy,1,3,0.3333333333333333,No one would believe,joy
+3.0,phase_3,phase 3,16,"""No one would believe""",sadness,1,3,0.3333333333333333,No one would believe,sadness
+3.0,phase_3,phase 3,17,Blaming the victim,fear,1,1,1.0,Victim blaming,fear
+3.0,phase_3,phase 3,18,Perpetrator was a family member,anger,1,5,0.2,Perpetrator was family,anger
+3.0,phase_3,phase 3,18,Perpetrator was a family member,fear,1,5,0.2,Perpetrator was family,fear
+3.0,phase_3,phase 3,18,Perpetrator was a family member,joy,1,5,0.2,Perpetrator was family,joy
+3.0,phase_3,phase 3,18,Perpetrator was a family member,sadness,2,5,0.4,Perpetrator was family,sadness
+3.0,phase_3,phase 3,19,Protection of the family,sadness,1,1,1.0,Family protection,sadness
+3.0,phase_3,phase 3,2,Distrust in institutions,anger,1,6,0.16666666666666666,Distrust in institutions,anger
+3.0,phase_3,phase 3,2,Distrust in institutions,fear,1,6,0.16666666666666666,Distrust in institutions,fear
+3.0,phase_3,phase 3,2,Distrust in institutions,joy,1,6,0.16666666666666666,Distrust in institutions,joy
+3.0,phase_3,phase 3,2,Distrust in institutions,sadness,3,6,0.5,Distrust in institutions,sadness
+3.0,phase_3,phase 3,20,"Belief that perpetartor will change (""it won't happen again"")",anger,1,1,1.0,Belief perpetrator would change,anger
+3.0,phase_3,phase 3,22,Dependent on the perpetrator,anger,1,2,0.5,Dependence on perpetrator,anger
+3.0,phase_3,phase 3,22,Dependent on the perpetrator,fear,1,2,0.5,Dependence on perpetrator,fear
+3.0,phase_3,phase 3,23,I can deal with it,sadness,2,2,1.0,Belief that one could deal with it,sadness
+3.0,phase_3,phase 3,24,OTHER,joy,1,1,1.0,Other,joy
+3.0,phase_3,phase 3,3,Others minimized victims experience,anger,2,8,0.25,Others minimized the experience,anger
+3.0,phase_3,phase 3,3,Others minimized victims experience,fear,1,8,0.125,Others minimized the experience,fear
+3.0,phase_3,phase 3,3,Others minimized victims experience,joy,2,8,0.25,Others minimized the experience,joy
+3.0,phase_3,phase 3,3,Others minimized victims experience,sadness,3,8,0.375,Others minimized the experience,sadness
+3.0,phase_3,phase 3,4,"""I tought that was normal"" (dismisal/minimizing)",anger,4,6,0.6666666666666666,Experience treated as normal,anger
+3.0,phase_3,phase 3,4,"""I tought that was normal"" (dismisal/minimizing)",joy,1,6,0.16666666666666666,Experience treated as normal,joy
+3.0,phase_3,phase 3,4,"""I tought that was normal"" (dismisal/minimizing)",sadness,1,6,0.16666666666666666,Experience treated as normal,sadness
+3.0,phase_3,phase 3,5,Lack of knowledge/awarenes that it is violence,anger,8,24,0.3333333333333333,Lack of knowledge about violence,anger
+3.0,phase_3,phase 3,5,Lack of knowledge/awarenes that it is violence,fear,6,24,0.25,Lack of knowledge about violence,fear
+3.0,phase_3,phase 3,5,Lack of knowledge/awarenes that it is violence,joy,3,24,0.125,Lack of knowledge about violence,joy
+3.0,phase_3,phase 3,5,Lack of knowledge/awarenes that it is violence,sadness,7,24,0.2916666666666667,Lack of knowledge about violence,sadness
+3.0,phase_3,phase 3,6,Fear,anger,8,24,0.3333333333333333,Fear,anger
+3.0,phase_3,phase 3,6,Fear,fear,4,24,0.16666666666666666,Fear,fear
+3.0,phase_3,phase 3,6,Fear,joy,2,24,0.08333333333333333,Fear,joy
+3.0,phase_3,phase 3,6,Fear,sadness,10,24,0.4166666666666667,Fear,sadness
+3.0,phase_3,phase 3,7,Self-blame,anger,3,8,0.375,Self-blame,anger
+3.0,phase_3,phase 3,7,Self-blame,fear,1,8,0.125,Self-blame,fear
+3.0,phase_3,phase 3,7,Self-blame,joy,1,8,0.125,Self-blame,joy
+3.0,phase_3,phase 3,7,Self-blame,sadness,3,8,0.375,Self-blame,sadness
+3.0,phase_3,phase 3,8,"Kept from reporting by others (""advised me not to report"")",sadness,1,1,1.0,Discouraged by others,sadness
+3.0,phase_3,phase 3,9,Managed to escape/defend,anger,1,3,0.3333333333333333,Escaped or defended oneself,anger
+3.0,phase_3,phase 3,9,Managed to escape/defend,joy,2,3,0.6666666666666666,Escaped or defended oneself,joy
+4.0,phase_4,phases 4-6,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,1,1,1.0,Gaslighting or self-doubt,sadness
+4.0,phase_4,phases 4-6,12,Lack of support from others,sadness,1,1,1.0,Lack of support,sadness
+4.0,phase_4,phases 4-6,14,"Perpetrator was respected, powerfull, influential",fear,1,1,1.0,Perpetrator status or power,fear
+4.0,phase_4,phases 4-6,24,OTHER,fear,1,1,1.0,Other,fear
+4.0,phase_4,phases 4-6,3,Others minimized victims experience,fear,1,1,1.0,Others minimized the experience,fear
+4.0,phase_4,phases 4-6,6,Fear,anger,1,2,0.5,Fear,anger
+4.0,phase_4,phases 4-6,6,Fear,sadness,1,2,0.5,Fear,sadness
+6.0,phase_6,phases 4-6,18,Perpetrator was a family member,sadness,1,1,1.0,Perpetrator was family,sadness

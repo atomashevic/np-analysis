@@ -1,0 +1,113 @@
+{
+  "counts": {
+    "annotation_nonempty_counts": {
+      "emotion_gemma_4_31b": 25109,
+      "emotion_gpt_5": 400,
+      "emotion_gpt_5_4": 400,
+      "human_emotion_modal": 400,
+      "institution_type_final": 25117,
+      "institution_type_gpt5mini": 25117,
+      "manual_first_person": 4386,
+      "manual_reporting_status": 1283
+    },
+    "manual_source_counts": {
+      "analytic_detailed_assignments": 1266,
+      "analytic_motive_events": 824,
+      "analytic_parent_assignments": 1238,
+      "manual_units": 4386,
+      "motive_annotation_rows": 1565,
+      "motive_events": 1122
+    },
+    "phase_counts": {
+      "outside_primary_phase_window": 6,
+      "phase_1": 610,
+      "phase_2": 20402,
+      "phase_3": 2639,
+      "phase_4": 693,
+      "phase_5": 379,
+      "phase_6": 388
+    },
+    "post_type_counts": {
+      "post": 3874,
+      "reply": 816,
+      "retweet": 20427
+    },
+    "rows": 25117,
+    "target_event_counts": {
+      "reply": 816,
+      "retweet": 20381
+    },
+    "target_user_counts": {
+      "reply": 816,
+      "retweet": 20427
+    },
+    "unique_author_tokens": 8637,
+    "unique_event_tokens": 25117
+  },
+  "created_utc": "2026-08-22T17:00:31+00:00",
+  "inputs": {
+    "analysis/manual_coding_motives/manual_coding_id_resolution.csv": {
+      "bytes": 618243,
+      "sha256": "e44498035839170bba7f1c26ea84edce3aa6dcb7836982bd42ba0e8940ba9aa5"
+    },
+    "analysis/six_phase_counterfactual/phase_boundaries.csv": {
+      "bytes": 759,
+      "sha256": "8b9d9f5e0420e56972dc588c2336ed265a231e9acf8e05a3c17a6f1b8a62311a"
+    },
+    "data/manual_coding/motive_annotations_long.csv": {
+      "bytes": 120632,
+      "sha256": "3ebcb4bcafcf26d6715a19ec0d30d19bba2bef8d50d8e5622cd4c0bd8dadfc67"
+    },
+    "data/manual_coding/motive_codebook.csv": {
+      "bytes": 1632,
+      "sha256": "fbfaee9a5edf24b5ef510eb2a27cc7256e8ec21913154c26e22778e299f77b85"
+    },
+    "data/np.csv": {
+      "bytes": 21422452,
+      "sha256": "1da44faa05e40ce0cf31812c4db435133714a8fd0b586b6bd2b96259e0e8cba1"
+    },
+    "data/np_network.csv": {
+      "bytes": 7673466,
+      "sha256": "36fa7336525ccf8d500819cbb486d01053f50a18c59b69c239ebc23b33c8b568"
+    },
+    "data/np_without_duplicates.csv": {
+      "bytes": 9104805,
+      "sha256": "d444f18a1bdf7271720272fe75f6a9244dceb19ff6e2a56b6e40dce192f55333"
+    },
+    "results/emotions_ff/ff_samples_18_25_annotations_with_majority.csv": {
+      "bytes": 832498,
+      "sha256": "1ea41b4a6181966c611fc3d2c4f87c87a5029ba78c1b6ebe25a6571185304af1"
+    },
+    "results/emotions_gemma/emotions_gemma4:31b_temp1.0_all_tweets.jsonl": {
+      "bytes": 225653,
+      "sha256": "df17881632172d7bdbf0caa94c5c9a0867f2beb5c88337b060a639c6d3d8b1bf"
+    },
+    "results/emotions_gpt/emotions_gpt-5.4_temp1.0_validation_1.jsonl": {
+      "bytes": 21914,
+      "sha256": "8a7c3a37acbcf470c319ba0e6ac77693a9daa4478bd426e1cb6a1567c565ddeb"
+    },
+    "results/emotions_gpt/emotions_gpt-5_temp1.0_validation_1.jsonl": {
+      "bytes": 22078,
+      "sha256": "e3812f52b5cf71b7d40c0c4cf1684a8b8b628f55fbde3d58541078dd8e3a419a"
+    },
+    "results/users_institution/users_institution_final.jsonl": {
+      "bytes": 1169999,
+      "sha256": "bd28198a7eab6bef9939b92c6dca5fcd9ded4ecfffda286e8583a5374f6f150c"
+    }
+  },
+  "output": {
+    "bytes": 5158356,
+    "path": "osf_package/data/deidentified_events.csv",
+    "sha256": "ff2c466986956ace65afa5e11dcae18384f932ac34db5b3c4bfdbddde22027d7"
+  },
+  "privacy_classification": "de-identified pseudonymous event-level research data",
+  "privacy_limit": "Event timing, interaction structure, and rare annotations can permit linkage. The artifact is not claimed to be anonymous.",
+  "schema_version": "1.0",
+  "transformations": {
+    "account_ids": "fresh random UUIDv4 tokens for observed numeric-id and handle pairs; crosswalk never persisted",
+    "event_ids": "fresh random UUIDv4 tokens; crosswalk never persisted",
+    "multi_label_fields": "compact JSON arrays",
+    "text": "excluded",
+    "timestamps": "seconds removed; random integer jitter from -15 to +15 minutes, constrained to preserve UTC date and manuscript phase"
+  }
+}

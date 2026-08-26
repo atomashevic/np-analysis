@@ -1,0 +1,28 @@
+retweet_phase_group,reason_group,fractional_retweet_count,phase_total_fractional,phase_unique_retweets,phase_share,display_label,phase_order
+phase 1,Other,117.93333333333334,401.0,401,0.2940980881130507,Other,0
+phase 1,15,74.16666666666667,401.0,401,0.18495428096425603,Invisible violence or lack of evidence,0
+phase 1,2,68.0,401.0,401,0.16957605985037408,Distrust in institutions,0
+phase 1,5,63.666666666666664,401.0,401,0.15876974231088944,Lack of recognition as violence,0
+phase 1,6,53.56666666666666,401.0,401,0.13358270989193682,Fear,0
+phase 1,9,15.0,401.0,401,0.03740648379052369,Escaped or defended oneself,0
+phase 1,10,8.666666666666666,401.0,401,0.021612635078969242,Gaslighting or self-doubt,0
+phases 2-3,Other,1675.1166666666666,4656.0,4656,0.3597759163802978,Other,1
+phases 2-3,5,887.8333333333334,4656.0,4656,0.19068585337915236,Lack of recognition as violence,1
+phases 2-3,6,600.7166666666667,4656.0,4656,0.12901990263459337,Fear,1
+phases 2-3,15,486.8333333333333,4656.0,4656,0.10456042382588773,Invisible violence or lack of evidence,1
+phases 2-3,10,434.6666666666667,4656.0,4656,0.09335624284077892,Gaslighting or self-doubt,1
+phases 2-3,2,318.0,4656.0,4656,0.06829896907216494,Distrust in institutions,1
+phases 2-3,9,252.83333333333334,4656.0,4656,0.05430269186712486,Escaped or defended oneself,1
+phases 4-5,Other,53.3,160.0,160,0.333125,Other,2
+phases 4-5,2,43.0,160.0,160,0.26875,Distrust in institutions,2
+phases 4-5,5,22.166666666666668,160.0,160,0.13854166666666667,Lack of recognition as violence,2
+phases 4-5,10,15.5,160.0,160,0.096875,Gaslighting or self-doubt,2
+phases 4-5,6,12.2,160.0,160,0.07625,Fear,2
+phases 4-5,15,7.833333333333333,160.0,160,0.04895833333333333,Invisible violence or lack of evidence,2
+phases 4-5,9,6.0,160.0,160,0.0375,Escaped or defended oneself,2
+phases 6-8,6,41.5,77.0,77,0.538961038961039,Fear,3
+phases 6-8,Other,25.0,77.0,77,0.3246753246753247,Other,3
+phases 6-8,5,6.0,77.0,77,0.07792207792207792,Lack of recognition as violence,3
+phases 6-8,10,2.0,77.0,77,0.025974025974025976,Gaslighting or self-doubt,3
+phases 6-8,15,1.5,77.0,77,0.01948051948051948,Invisible violence or lack of evidence,3
+phases 6-8,2,1.0,77.0,77,0.012987012987012988,Distrust in institutions,3

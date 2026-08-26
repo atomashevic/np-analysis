@@ -1,0 +1,28 @@
+lifecycle_group,reason_group,fractional_retweet_count,phase_total_fractional,phase_unique_retweets,phase_share,display_label
+contraction,2,43.0,161.0,161,0.2670807453416149,Distrust in institutions
+contraction,5,22.5,161.0,161,0.13975155279503104,Lack of knowledge/awarenes that it is violence
+contraction,6,12.2,161.0,161,0.07577639751552795,Fear
+contraction,9,6.0,161.0,161,0.037267080745341616,Managed to escape/defend
+contraction,10,15.5,161.0,161,0.09627329192546584,Perpetrator persuaded me that it was noting / it was my fault (gaslightning)
+contraction,15,7.833333333333333,161.0,161,0.048654244306418216,Invisible violence / lack of physical evidence
+contraction,Other,53.96666666666667,161.0,161,0.33519668737060043,Other
+emergence,2,55.833333333333336,319.0,319,0.1750261233019854,Distrust in institutions
+emergence,5,55.666666666666664,319.0,319,0.17450365726227796,Lack of knowledge/awarenes that it is violence
+emergence,6,46.5,319.0,319,0.14576802507836992,Fear
+emergence,9,15.0,319.0,319,0.047021943573667714,Managed to escape/defend
+emergence,10,8.666666666666666,319.0,319,0.027168234064785787,Perpetrator persuaded me that it was noting / it was my fault (gaslightning)
+emergence,15,59.666666666666664,319.0,319,0.187042842215256,Invisible violence / lack of physical evidence
+emergence,Other,77.66666666666667,319.0,319,0.24346917450365727,Other
+later afterlife,2,1.0,76.0,76,0.013157894736842105,Distrust in institutions
+later afterlife,5,5.5,76.0,76,0.07236842105263158,Lack of knowledge/awarenes that it is violence
+later afterlife,6,41.5,76.0,76,0.5460526315789473,Fear
+later afterlife,10,2.0,76.0,76,0.02631578947368421,Perpetrator persuaded me that it was noting / it was my fault (gaslightning)
+later afterlife,15,1.5,76.0,76,0.019736842105263157,Invisible violence / lack of physical evidence
+later afterlife,Other,24.5,76.0,76,0.3223684210526316,Other
+viral amplification,2,330.1666666666667,4739.0,4739,0.06967011324470704,Distrust in institutions
+viral amplification,5,893.9166666666666,4739.0,4739,0.18862980938313287,Lack of knowledge/awarenes that it is violence
+viral amplification,6,607.6166666666667,4739.0,4739,0.12821622001828797,Fear
+viral amplification,9,252.83333333333334,4739.0,4739,0.05335162129844553,Managed to escape/defend
+viral amplification,10,434.6666666666667,4739.0,4739,0.09172117887036646,Perpetrator persuaded me that it was noting / it was my fault (gaslightning)
+viral amplification,15,501.3333333333333,4739.0,4739,0.10578884434128157,Invisible violence / lack of physical evidence
+viral amplification,Other,1718.4666666666667,4739.0,4739,0.3626222128437786,Other

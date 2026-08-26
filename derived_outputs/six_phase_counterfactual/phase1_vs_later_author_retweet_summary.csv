@@ -1,0 +1,3 @@
+phase_id,phase_label,followup_hours,phase1_active_authors,later_active_authors,phase1_posts_authored,later_posts_authored,post_retweet_risk_ratio,post_retweet_risk_ratio_ci_lower,post_retweet_risk_ratio_ci_upper,retweets_per_post_rate_ratio,retweets_per_post_rate_ratio_ci_lower,retweets_per_post_rate_ratio_ci_upper,bootstrap_reps,bootstrap_seed,uncertainty_method
+2,phase_2,12.0,35,2314,60,2917,1.5995093795093793,1.2425997575104404,1.919427632540298,1.8944544279453954,0.783345693424601,3.565232527007504,10000,42,author-cluster percentile bootstrap
+3,phase_3,12.0,9,465,9,557,2.062962962962963,0.8302390400604687,3.3282443728401967,0.9655052868781419,0.2481122581505797,2.2748317160590954,10000,42,author-cluster percentile bootstrap

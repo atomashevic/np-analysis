@@ -1,0 +1,86 @@
+motive_family,motive_label,emotion,tweets,reason_total,reason_emotion_share,display_label,emotion_display
+1,Demotivated by previous cases of reporting,anger,2,9,0.2222222222222222,Discouraged by prior reporting outcomes,anger
+1,Demotivated by previous cases of reporting,fear,1,9,0.1111111111111111,Discouraged by prior reporting outcomes,fear
+1,Demotivated by previous cases of reporting,joy,4,9,0.4444444444444444,Discouraged by prior reporting outcomes,joy
+1,Demotivated by previous cases of reporting,sadness,2,9,0.2222222222222222,Discouraged by prior reporting outcomes,sadness
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),anger,9,44,0.20454545454545456,Gaslighting or self-doubt,anger
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),fear,5,44,0.11363636363636363,Gaslighting or self-doubt,fear
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),joy,8,44,0.18181818181818182,Gaslighting or self-doubt,joy
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),sadness,22,44,0.5,Gaslighting or self-doubt,sadness
+11,Shame/embarassment,anger,25,78,0.32051282051282054,Shame or embarrassment,anger
+11,Shame/embarassment,fear,12,78,0.15384615384615385,Shame or embarrassment,fear
+11,Shame/embarassment,joy,12,78,0.15384615384615385,Shame or embarrassment,joy
+11,Shame/embarassment,sadness,29,78,0.3717948717948718,Shame or embarrassment,sadness
+12,Lack of support from others,anger,10,60,0.16666666666666666,Lack of support,anger
+12,Lack of support from others,fear,14,60,0.23333333333333334,Lack of support,fear
+12,Lack of support from others,joy,6,60,0.1,Lack of support,joy
+12,Lack of support from others,sadness,30,60,0.5,Lack of support,sadness
+14,"Perpetrator was respected, powerfull, influential",anger,20,62,0.3225806451612903,Perpetrator status or power,anger
+14,"Perpetrator was respected, powerfull, influential",fear,13,62,0.20967741935483872,Perpetrator status or power,fear
+14,"Perpetrator was respected, powerfull, influential",joy,6,62,0.0967741935483871,Perpetrator status or power,joy
+14,"Perpetrator was respected, powerfull, influential",sadness,23,62,0.3709677419354839,Perpetrator status or power,sadness
+15,Invisible violence / lack of physical evidence,anger,13,56,0.23214285714285715,Invisible violence or lack of evidence,anger
+15,Invisible violence / lack of physical evidence,fear,10,56,0.17857142857142858,Invisible violence or lack of evidence,fear
+15,Invisible violence / lack of physical evidence,joy,7,56,0.125,Invisible violence or lack of evidence,joy
+15,Invisible violence / lack of physical evidence,sadness,26,56,0.4642857142857143,Invisible violence or lack of evidence,sadness
+16,"""No one would believe""",anger,12,50,0.24,No one would believe,anger
+16,"""No one would believe""",fear,7,50,0.14,No one would believe,fear
+16,"""No one would believe""",joy,9,50,0.18,No one would believe,joy
+16,"""No one would believe""",sadness,22,50,0.44,No one would believe,sadness
+17,Blaming the victim,anger,4,21,0.19047619047619047,Victim blaming,anger
+17,Blaming the victim,fear,3,21,0.14285714285714285,Victim blaming,fear
+17,Blaming the victim,joy,1,21,0.047619047619047616,Victim blaming,joy
+17,Blaming the victim,sadness,13,21,0.6190476190476191,Victim blaming,sadness
+18,Perpetrator was a family member,anger,5,36,0.1388888888888889,Perpetrator was family,anger
+18,Perpetrator was a family member,fear,4,36,0.1111111111111111,Perpetrator was family,fear
+18,Perpetrator was a family member,joy,6,36,0.16666666666666666,Perpetrator was family,joy
+18,Perpetrator was a family member,sadness,21,36,0.5833333333333334,Perpetrator was family,sadness
+19,Protection of the family,anger,15,54,0.2777777777777778,Family protection,anger
+19,Protection of the family,fear,10,54,0.18518518518518517,Family protection,fear
+19,Protection of the family,joy,6,54,0.1111111111111111,Family protection,joy
+19,Protection of the family,sadness,23,54,0.42592592592592593,Family protection,sadness
+2,Distrust in institutions,anger,8,48,0.16666666666666666,Distrust in institutions,anger
+2,Distrust in institutions,fear,11,48,0.22916666666666666,Distrust in institutions,fear
+2,Distrust in institutions,joy,7,48,0.14583333333333334,Distrust in institutions,joy
+2,Distrust in institutions,sadness,22,48,0.4583333333333333,Distrust in institutions,sadness
+20,"Belief that perpetartor will change (""it won't happen again"")",anger,2,4,0.5,Belief perpetrator would change,anger
+20,"Belief that perpetartor will change (""it won't happen again"")",fear,1,4,0.25,Belief perpetrator would change,fear
+20,"Belief that perpetartor will change (""it won't happen again"")",sadness,1,4,0.25,Belief perpetrator would change,sadness
+22,Dependent on the perpetrator,anger,2,13,0.15384615384615385,Dependence on perpetrator,anger
+22,Dependent on the perpetrator,fear,1,13,0.07692307692307693,Dependence on perpetrator,fear
+22,Dependent on the perpetrator,joy,3,13,0.23076923076923078,Dependence on perpetrator,joy
+22,Dependent on the perpetrator,sadness,7,13,0.5384615384615384,Dependence on perpetrator,sadness
+23,I can deal with it,anger,3,13,0.23076923076923078,Belief that one could deal with it,anger
+23,I can deal with it,fear,2,13,0.15384615384615385,Belief that one could deal with it,fear
+23,I can deal with it,joy,1,13,0.07692307692307693,Belief that one could deal with it,joy
+23,I can deal with it,sadness,7,13,0.5384615384615384,Belief that one could deal with it,sadness
+24,OTHER,anger,2,9,0.2222222222222222,Other,anger
+24,OTHER,fear,2,9,0.2222222222222222,Other,fear
+24,OTHER,joy,5,9,0.5555555555555556,Other,joy
+3,Others minimized victims experience,anger,13,73,0.1780821917808219,Others minimized the experience,anger
+3,Others minimized victims experience,fear,8,73,0.1095890410958904,Others minimized the experience,fear
+3,Others minimized victims experience,joy,14,73,0.1917808219178082,Others minimized the experience,joy
+3,Others minimized victims experience,sadness,38,73,0.5205479452054794,Others minimized the experience,sadness
+4,"""I tought that was normal"" (dismisal/minimizing)",anger,9,23,0.391304347826087,Experience treated as normal,anger
+4,"""I tought that was normal"" (dismisal/minimizing)",fear,7,23,0.30434782608695654,Experience treated as normal,fear
+4,"""I tought that was normal"" (dismisal/minimizing)",joy,2,23,0.08695652173913043,Experience treated as normal,joy
+4,"""I tought that was normal"" (dismisal/minimizing)",sadness,5,23,0.21739130434782608,Experience treated as normal,sadness
+5,Lack of knowledge/awarenes that it is violence,anger,69,266,0.2593984962406015,Lack of knowledge about violence,anger
+5,Lack of knowledge/awarenes that it is violence,fear,43,266,0.16165413533834586,Lack of knowledge about violence,fear
+5,Lack of knowledge/awarenes that it is violence,joy,47,266,0.17669172932330826,Lack of knowledge about violence,joy
+5,Lack of knowledge/awarenes that it is violence,sadness,107,266,0.40225563909774437,Lack of knowledge about violence,sadness
+6,Fear,anger,39,156,0.25,Fear,anger
+6,Fear,fear,29,156,0.1858974358974359,Fear,fear
+6,Fear,joy,21,156,0.1346153846153846,Fear,joy
+6,Fear,sadness,67,156,0.42948717948717946,Fear,sadness
+7,Self-blame,anger,28,98,0.2857142857142857,Self-blame,anger
+7,Self-blame,fear,14,98,0.14285714285714285,Self-blame,fear
+7,Self-blame,joy,17,98,0.17346938775510204,Self-blame,joy
+7,Self-blame,sadness,39,98,0.3979591836734694,Self-blame,sadness
+8,"Kept from reporting by others (""advised me not to report"")",anger,4,9,0.4444444444444444,Discouraged by others,anger
+8,"Kept from reporting by others (""advised me not to report"")",joy,1,9,0.1111111111111111,Discouraged by others,joy
+8,"Kept from reporting by others (""advised me not to report"")",sadness,4,9,0.4444444444444444,Discouraged by others,sadness
+9,Managed to escape/defend,anger,12,56,0.21428571428571427,Escaped or defended oneself,anger
+9,Managed to escape/defend,fear,8,56,0.14285714285714285,Escaped or defended oneself,fear
+9,Managed to escape/defend,joy,8,56,0.14285714285714285,Escaped or defended oneself,joy
+9,Managed to escape/defend,sadness,28,56,0.5,Escaped or defended oneself,sadness

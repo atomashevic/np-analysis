@@ -1,0 +1,104 @@
+post_phase_id,post_phase,post_phase_group,coded_post_type,motive_family,motive_label,label_assignments,unique_tweets,phase_total_assignments,phase_assignment_share,display_label
+1.0,phase_1,phase 1,comment,15,Invisible violence / lack of physical evidence,2,2,64,0.03125,Invisible violence or lack of evidence
+1.0,phase_1,phase 1,comment,2,Distrust in institutions,1,1,64,0.015625,Distrust in institutions
+1.0,phase_1,phase 1,comment,4,"""I tought that was normal"" (dismisal/minimizing)",1,1,64,0.015625,Experience treated as normal
+1.0,phase_1,phase 1,comment,5,Lack of knowledge/awarenes that it is violence,2,2,64,0.03125,Lack of knowledge about violence
+1.0,phase_1,phase 1,comment,6,Fear,1,1,64,0.015625,Fear
+1.0,phase_1,phase 1,comment,9,Managed to escape/defend,1,1,64,0.015625,Escaped or defended oneself
+1.0,phase_1,phase 1,post,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),1,1,64,0.015625,Gaslighting or self-doubt
+1.0,phase_1,phase 1,post,11,Shame/embarassment,6,6,64,0.09375,Shame or embarrassment
+1.0,phase_1,phase 1,post,12,Lack of support from others,4,4,64,0.0625,Lack of support
+1.0,phase_1,phase 1,post,14,"Perpetrator was respected, powerfull, influential",3,3,64,0.046875,Perpetrator status or power
+1.0,phase_1,phase 1,post,15,Invisible violence / lack of physical evidence,5,5,64,0.078125,Invisible violence or lack of evidence
+1.0,phase_1,phase 1,post,16,"""No one would believe""",1,1,64,0.015625,No one would believe
+1.0,phase_1,phase 1,post,19,Protection of the family,2,2,64,0.03125,Family protection
+1.0,phase_1,phase 1,post,2,Distrust in institutions,6,6,64,0.09375,Distrust in institutions
+1.0,phase_1,phase 1,post,3,Others minimized victims experience,5,5,64,0.078125,Others minimized the experience
+1.0,phase_1,phase 1,post,4,"""I tought that was normal"" (dismisal/minimizing)",3,3,64,0.046875,Experience treated as normal
+1.0,phase_1,phase 1,post,5,Lack of knowledge/awarenes that it is violence,8,8,64,0.125,Lack of knowledge about violence
+1.0,phase_1,phase 1,post,6,Fear,7,7,64,0.109375,Fear
+1.0,phase_1,phase 1,post,7,Self-blame,3,3,64,0.046875,Self-blame
+1.0,phase_1,phase 1,post,8,"Kept from reporting by others (""advised me not to report"")",1,1,64,0.015625,Discouraged by others
+1.0,phase_1,phase 1,post,9,Managed to escape/defend,1,1,64,0.015625,Escaped or defended oneself
+2.0,phase_2,phase 2,comment,1,Demotivated by previous cases of reporting,2,2,1043,0.0019175455417066154,Discouraged by prior reporting outcomes
+2.0,phase_2,phase 2,comment,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),3,3,1043,0.0028763183125599234,Gaslighting or self-doubt
+2.0,phase_2,phase 2,comment,11,Shame/embarassment,6,6,1043,0.005752636625119847,Shame or embarrassment
+2.0,phase_2,phase 2,comment,12,Lack of support from others,6,6,1043,0.005752636625119847,Lack of support
+2.0,phase_2,phase 2,comment,14,"Perpetrator was respected, powerfull, influential",13,13,1043,0.012464046021093002,Perpetrator status or power
+2.0,phase_2,phase 2,comment,15,Invisible violence / lack of physical evidence,7,7,1043,0.006711409395973154,Invisible violence or lack of evidence
+2.0,phase_2,phase 2,comment,16,"""No one would believe""",11,11,1043,0.010546500479386385,No one would believe
+2.0,phase_2,phase 2,comment,17,Blaming the victim,4,4,1043,0.003835091083413231,Victim blaming
+2.0,phase_2,phase 2,comment,18,Perpetrator was a family member,5,5,1043,0.004793863854266539,Perpetrator was family
+2.0,phase_2,phase 2,comment,19,Protection of the family,10,10,1043,0.009587727708533078,Family protection
+2.0,phase_2,phase 2,comment,2,Distrust in institutions,2,2,1043,0.0019175455417066154,Distrust in institutions
+2.0,phase_2,phase 2,comment,20,"Belief that perpetartor will change (""it won't happen again"")",2,2,1043,0.0019175455417066154,Belief perpetrator would change
+2.0,phase_2,phase 2,comment,22,Dependent on the perpetrator,1,1,1043,0.0009587727708533077,Dependence on perpetrator
+2.0,phase_2,phase 2,comment,23,I can deal with it,1,1,1043,0.0009587727708533077,Belief that one could deal with it
+2.0,phase_2,phase 2,comment,3,Others minimized victims experience,12,12,1043,0.011505273250239693,Others minimized the experience
+2.0,phase_2,phase 2,comment,4,"""I tought that was normal"" (dismisal/minimizing)",2,2,1043,0.0019175455417066154,Experience treated as normal
+2.0,phase_2,phase 2,comment,5,Lack of knowledge/awarenes that it is violence,34,34,1043,0.032598274209012464,Lack of knowledge about violence
+2.0,phase_2,phase 2,comment,6,Fear,20,20,1043,0.019175455417066157,Fear
+2.0,phase_2,phase 2,comment,7,Self-blame,13,13,1043,0.012464046021093002,Self-blame
+2.0,phase_2,phase 2,comment,9,Managed to escape/defend,5,5,1043,0.004793863854266539,Escaped or defended oneself
+2.0,phase_2,phase 2,post,1,Demotivated by previous cases of reporting,7,7,1043,0.006711409395973154,Discouraged by prior reporting outcomes
+2.0,phase_2,phase 2,post,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),33,33,1043,0.031639501438159155,Gaslighting or self-doubt
+2.0,phase_2,phase 2,post,11,Shame/embarassment,61,61,1043,0.058485139022051776,Shame or embarrassment
+2.0,phase_2,phase 2,post,12,Lack of support from others,37,37,1043,0.03547459252157239,Lack of support
+2.0,phase_2,phase 2,post,14,"Perpetrator was respected, powerfull, influential",41,41,1043,0.039309683604985615,Perpetrator status or power
+2.0,phase_2,phase 2,post,15,Invisible violence / lack of physical evidence,42,42,1043,0.040268456375838924,Invisible violence or lack of evidence
+2.0,phase_2,phase 2,post,16,"""No one would believe""",35,35,1043,0.03355704697986577,No one would believe
+2.0,phase_2,phase 2,post,17,Blaming the victim,16,16,1043,0.015340364333652923,Victim blaming
+2.0,phase_2,phase 2,post,18,Perpetrator was a family member,25,25,1043,0.023969319271332695,Perpetrator was family
+2.0,phase_2,phase 2,post,19,Protection of the family,41,41,1043,0.039309683604985615,Family protection
+2.0,phase_2,phase 2,post,2,Distrust in institutions,33,33,1043,0.031639501438159155,Distrust in institutions
+2.0,phase_2,phase 2,post,20,"Belief that perpetartor will change (""it won't happen again"")",1,1,1043,0.0009587727708533077,Belief perpetrator would change
+2.0,phase_2,phase 2,post,22,Dependent on the perpetrator,10,10,1043,0.009587727708533078,Dependence on perpetrator
+2.0,phase_2,phase 2,post,23,I can deal with it,10,10,1043,0.009587727708533078,Belief that one could deal with it
+2.0,phase_2,phase 2,post,24,OTHER,7,7,1043,0.006711409395973154,Other
+2.0,phase_2,phase 2,post,3,Others minimized victims experience,47,47,1043,0.045062320230105465,Others minimized the experience
+2.0,phase_2,phase 2,post,4,"""I tought that was normal"" (dismisal/minimizing)",11,11,1043,0.010546500479386385,Experience treated as normal
+2.0,phase_2,phase 2,post,5,Lack of knowledge/awarenes that it is violence,198,198,1043,0.18983700862895495,Lack of knowledge about violence
+2.0,phase_2,phase 2,post,6,Fear,102,102,1043,0.0977948226270374,Fear
+2.0,phase_2,phase 2,post,7,Self-blame,74,74,1043,0.07094918504314478,Self-blame
+2.0,phase_2,phase 2,post,8,"Kept from reporting by others (""advised me not to report"")",7,7,1043,0.006711409395973154,Discouraged by others
+2.0,phase_2,phase 2,post,9,Managed to escape/defend,46,46,1043,0.04410354745925216,Escaped or defended oneself
+3.0,phase_3,phase 3,comment,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),2,2,123,0.016260162601626018,Gaslighting or self-doubt
+3.0,phase_3,phase 3,comment,11,Shame/embarassment,1,1,123,0.008130081300813009,Shame or embarrassment
+3.0,phase_3,phase 3,comment,12,Lack of support from others,1,1,123,0.008130081300813009,Lack of support
+3.0,phase_3,phase 3,comment,14,"Perpetrator was respected, powerfull, influential",2,2,123,0.016260162601626018,Perpetrator status or power
+3.0,phase_3,phase 3,comment,16,"""No one would believe""",1,1,123,0.008130081300813009,No one would believe
+3.0,phase_3,phase 3,comment,18,Perpetrator was a family member,1,1,123,0.008130081300813009,Perpetrator was family
+3.0,phase_3,phase 3,comment,2,Distrust in institutions,1,1,123,0.008130081300813009,Distrust in institutions
+3.0,phase_3,phase 3,comment,22,Dependent on the perpetrator,1,1,123,0.008130081300813009,Dependence on perpetrator
+3.0,phase_3,phase 3,comment,24,OTHER,1,1,123,0.008130081300813009,Other
+3.0,phase_3,phase 3,comment,4,"""I tought that was normal"" (dismisal/minimizing)",1,1,123,0.008130081300813009,Experience treated as normal
+3.0,phase_3,phase 3,comment,5,Lack of knowledge/awarenes that it is violence,4,4,123,0.032520325203252036,Lack of knowledge about violence
+3.0,phase_3,phase 3,comment,6,Fear,3,3,123,0.024390243902439025,Fear
+3.0,phase_3,phase 3,comment,7,Self-blame,2,2,123,0.016260162601626018,Self-blame
+3.0,phase_3,phase 3,comment,8,"Kept from reporting by others (""advised me not to report"")",1,1,123,0.008130081300813009,Discouraged by others
+3.0,phase_3,phase 3,post,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),4,4,123,0.032520325203252036,Gaslighting or self-doubt
+3.0,phase_3,phase 3,post,11,Shame/embarassment,4,4,123,0.032520325203252036,Shame or embarrassment
+3.0,phase_3,phase 3,post,12,Lack of support from others,11,11,123,0.08943089430894309,Lack of support
+3.0,phase_3,phase 3,post,14,"Perpetrator was respected, powerfull, influential",2,2,123,0.016260162601626018,Perpetrator status or power
+3.0,phase_3,phase 3,post,16,"""No one would believe""",2,2,123,0.016260162601626018,No one would believe
+3.0,phase_3,phase 3,post,17,Blaming the victim,1,1,123,0.008130081300813009,Victim blaming
+3.0,phase_3,phase 3,post,18,Perpetrator was a family member,4,4,123,0.032520325203252036,Perpetrator was family
+3.0,phase_3,phase 3,post,19,Protection of the family,1,1,123,0.008130081300813009,Family protection
+3.0,phase_3,phase 3,post,2,Distrust in institutions,5,5,123,0.04065040650406504,Distrust in institutions
+3.0,phase_3,phase 3,post,20,"Belief that perpetartor will change (""it won't happen again"")",1,1,123,0.008130081300813009,Belief perpetrator would change
+3.0,phase_3,phase 3,post,22,Dependent on the perpetrator,1,1,123,0.008130081300813009,Dependence on perpetrator
+3.0,phase_3,phase 3,post,23,I can deal with it,2,2,123,0.016260162601626018,Belief that one could deal with it
+3.0,phase_3,phase 3,post,3,Others minimized victims experience,8,8,123,0.06504065040650407,Others minimized the experience
+3.0,phase_3,phase 3,post,4,"""I tought that was normal"" (dismisal/minimizing)",5,5,123,0.04065040650406504,Experience treated as normal
+3.0,phase_3,phase 3,post,5,Lack of knowledge/awarenes that it is violence,20,20,123,0.16260162601626016,Lack of knowledge about violence
+3.0,phase_3,phase 3,post,6,Fear,21,21,123,0.17073170731707318,Fear
+3.0,phase_3,phase 3,post,7,Self-blame,6,6,123,0.04878048780487805,Self-blame
+3.0,phase_3,phase 3,post,9,Managed to escape/defend,3,3,123,0.024390243902439025,Escaped or defended oneself
+4.0,phase_4,phases 4-6,comment,6,Fear,1,1,7,0.14285714285714285,Fear
+4.0,phase_4,phases 4-6,post,10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),1,1,7,0.14285714285714285,Gaslighting or self-doubt
+4.0,phase_4,phases 4-6,post,12,Lack of support from others,1,1,7,0.14285714285714285,Lack of support
+4.0,phase_4,phases 4-6,post,14,"Perpetrator was respected, powerfull, influential",1,1,7,0.14285714285714285,Perpetrator status or power
+4.0,phase_4,phases 4-6,post,24,OTHER,1,1,7,0.14285714285714285,Other
+4.0,phase_4,phases 4-6,post,3,Others minimized victims experience,1,1,7,0.14285714285714285,Others minimized the experience
+4.0,phase_4,phases 4-6,post,6,Fear,1,1,7,0.14285714285714285,Fear
+6.0,phase_6,phases 4-6,comment,18,Perpetrator was a family member,1,1,1,1.0,Perpetrator was family

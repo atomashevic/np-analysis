@@ -1,0 +1,8 @@
+analysis,subset,n_tweets,comparison,accuracy,cohen_kappa,krippendorff_alpha
+model_vs_modal_human,all_400,400,Gemma 4 31B,0.53,0.43957968476357273,
+model_vs_modal_human,all_400,400,GPT-5,0.545,0.45934304238364365,
+model_vs_modal_human,all_400,400,GPT-5.4,0.525,0.4333305994020147,
+model_vs_modal_human,strict_majority,224,Gemma 4 31B,0.6651785714285714,0.5915787426459862,
+model_vs_modal_human,strict_majority,224,GPT-5,0.6785714285714286,0.6118691791206411,
+model_vs_modal_human,strict_majority,224,GPT-5.4,0.6339285714285714,0.5530682758285074,
+student_interrater_reliability,all_400,400,student annotators,,,0.275236828453542

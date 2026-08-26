@@ -1,0 +1,6 @@
+phase_id,phase_label,start_utc,end_utc,cohort_user_count,cohort_authored_tweets,cohort_retweets_received,cohort_unique_authors_active,cohort_unique_users_retweeted
+2,phase_2,2021-12-26 06:00:00+00:00,2021-12-28 00:00:00+00:00,87,87,2811,37,69
+3,phase_3,2021-12-28 00:00:00+00:00,2021-12-30 18:00:00+00:00,87,17,58,13,26
+4,phase_4,2021-12-30 18:00:00+00:00,2022-01-07 15:00:00+00:00,87,4,14,2,2
+5,phase_5,2022-01-07 15:00:00+00:00,2022-01-08 21:00:00+00:00,87,1,4,1,2
+6,phase_6,2022-01-08 21:00:00+00:00,2022-01-13 06:00:00+00:00,87,2,2,2,2

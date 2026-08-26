@@ -1,0 +1,15 @@
+boundary_id,transition,poisson_hourly_utc,candidate,nearest_candidate_utc,difference_hours,absolute_difference_hours
+1,emergence to viral peak,2021-12-26 08:00:00+0000,NB hourly K=8,2021-12-26 07:00:00+0000,-1.0,1.0
+2,viral peak to declining amplification,2021-12-26 23:00:00+0000,NB hourly K=8,2021-12-27 00:00:00+0000,1.0,1.0
+3,declining amplification to sharp contraction,2021-12-28 00:00:00+0000,NB hourly K=8,2021-12-28 00:00:00+0000,0.0,0.0
+4,sharp contraction to lower-volume contraction,2021-12-29 00:00:00+0000,NB hourly K=8,2021-12-29 00:00:00+0000,0.0,0.0
+5,contraction to dormant period,2021-12-30 16:00:00+0000,NB hourly K=8,2021-12-30 23:00:00+0000,7.0,7.0
+6,dormant period to late reactivation,2022-01-07 15:00:00+0000,NB hourly K=8,2022-01-07 15:00:00+0000,0.0,0.0
+7,late reactivation to residual afterlife,2022-01-08 21:00:00+0000,NB hourly K=8,2022-01-08 21:00:00+0000,0.0,0.0
+1,emergence to viral peak,2021-12-26 08:00:00+0000,NB 3-hour K=6,2021-12-26 06:00:00+0000,-2.0,2.0
+2,viral peak to declining amplification,2021-12-26 23:00:00+0000,NB 3-hour K=6,2021-12-26 06:00:00+0000,-17.0,17.0
+3,declining amplification to sharp contraction,2021-12-28 00:00:00+0000,NB 3-hour K=6,2021-12-28 00:00:00+0000,0.0,0.0
+4,sharp contraction to lower-volume contraction,2021-12-29 00:00:00+0000,NB 3-hour K=6,2021-12-28 00:00:00+0000,-24.0,24.0
+5,contraction to dormant period,2021-12-30 16:00:00+0000,NB 3-hour K=6,2021-12-30 18:00:00+0000,2.0,2.0
+6,dormant period to late reactivation,2022-01-07 15:00:00+0000,NB 3-hour K=6,2022-01-07 15:00:00+0000,0.0,0.0
+7,late reactivation to residual afterlife,2022-01-08 21:00:00+0000,NB 3-hour K=6,2022-01-08 21:00:00+0000,0.0,0.0

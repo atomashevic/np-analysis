@@ -1,0 +1,119 @@
+motive_family,motive_label,emotion,tweets,reason_total,reason_emotion_share,display_label,emotion_display
+1,Demotivated by previous cases of reporting,strah,1,7,0.14285714285714285,Demotivated by previous cases of reporting,fear
+1,Demotivated by previous cases of reporting,tuga,6,7,0.8571428571428571,Demotivated by previous cases of reporting,sadness
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),bes,10,44,0.22727272727272727,Gaslighting or self-doubt,anger
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),gađenje,4,44,0.09090909090909091,Gaslighting or self-doubt,disgust
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),radost,4,44,0.09090909090909091,Gaslighting or self-doubt,joy
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),strah,10,44,0.22727272727272727,Gaslighting or self-doubt,fear
+10,Perpetrator persuaded me that it was noting / it was my fault (gaslightning),tuga,16,44,0.36363636363636365,Gaslighting or self-doubt,sadness
+11,Shame/embarassment,bes,13,78,0.16666666666666666,Shame or embarrassment,anger
+11,Shame/embarassment,gađenje,5,78,0.0641025641025641,Shame or embarrassment,disgust
+11,Shame/embarassment,neutralno,1,78,0.01282051282051282,Shame or embarrassment,neutral
+11,Shame/embarassment,radost,2,78,0.02564102564102564,Shame or embarrassment,joy
+11,Shame/embarassment,strah,14,78,0.1794871794871795,Shame or embarrassment,fear
+11,Shame/embarassment,tuga,43,78,0.5512820512820513,Shame or embarrassment,sadness
+12,Lack of support from others,bes,16,60,0.26666666666666666,Lack of support,anger
+12,Lack of support from others,gađenje,6,60,0.1,Lack of support,disgust
+12,Lack of support from others,neutralno,2,60,0.03333333333333333,Lack of support,neutral
+12,Lack of support from others,radost,1,60,0.016666666666666666,Lack of support,joy
+12,Lack of support from others,strah,9,60,0.15,Lack of support,fear
+12,Lack of support from others,tuga,26,60,0.43333333333333335,Lack of support,sadness
+14,"Perpetrator was respected, powerfull, influential",bes,10,62,0.16129032258064516,Perpetrator status or power,anger
+14,"Perpetrator was respected, powerfull, influential",gađenje,7,62,0.11290322580645161,Perpetrator status or power,disgust
+14,"Perpetrator was respected, powerfull, influential",iščekivanje,1,62,0.016129032258064516,Perpetrator status or power,anticipation
+14,"Perpetrator was respected, powerfull, influential",radost,2,62,0.03225806451612903,Perpetrator status or power,joy
+14,"Perpetrator was respected, powerfull, influential",strah,14,62,0.22580645161290322,Perpetrator status or power,fear
+14,"Perpetrator was respected, powerfull, influential",tuga,28,62,0.45161290322580644,Perpetrator status or power,sadness
+15,Invisible violence / lack of physical evidence,bes,8,56,0.14285714285714285,Invisible violence or lack of evidence,anger
+15,Invisible violence / lack of physical evidence,gađenje,4,56,0.07142857142857142,Invisible violence or lack of evidence,disgust
+15,Invisible violence / lack of physical evidence,neutralno,1,56,0.017857142857142856,Invisible violence or lack of evidence,neutral
+15,Invisible violence / lack of physical evidence,poverenje,1,56,0.017857142857142856,Invisible violence or lack of evidence,trust
+15,Invisible violence / lack of physical evidence,radost,1,56,0.017857142857142856,Invisible violence or lack of evidence,joy
+15,Invisible violence / lack of physical evidence,strah,17,56,0.30357142857142855,Invisible violence or lack of evidence,fear
+15,Invisible violence / lack of physical evidence,tuga,24,56,0.42857142857142855,Invisible violence or lack of evidence,sadness
+16,"""No one would believe""",bes,6,50,0.12,No one would believe,anger
+16,"""No one would believe""",gađenje,5,50,0.1,No one would believe,disgust
+16,"""No one would believe""",neutralno,1,50,0.02,No one would believe,neutral
+16,"""No one would believe""",poverenje,1,50,0.02,No one would believe,trust
+16,"""No one would believe""",radost,5,50,0.1,No one would believe,joy
+16,"""No one would believe""",strah,11,50,0.22,No one would believe,fear
+16,"""No one would believe""",tuga,21,50,0.42,No one would believe,sadness
+18,Perpetrator was a family member,bes,6,36,0.16666666666666666,Perpetrator was family,anger
+18,Perpetrator was a family member,gađenje,6,36,0.16666666666666666,Perpetrator was family,disgust
+18,Perpetrator was a family member,neutralno,1,36,0.027777777777777776,Perpetrator was family,neutral
+18,Perpetrator was a family member,radost,1,36,0.027777777777777776,Perpetrator was family,joy
+18,Perpetrator was a family member,strah,7,36,0.19444444444444445,Perpetrator was family,fear
+18,Perpetrator was a family member,tuga,15,36,0.4166666666666667,Perpetrator was family,sadness
+19,Protection of the family,bes,10,54,0.18518518518518517,Family protection,anger
+19,Protection of the family,gađenje,6,54,0.1111111111111111,Family protection,disgust
+19,Protection of the family,nepoznato,1,54,0.018518518518518517,Family protection,unknown
+19,Protection of the family,radost,3,54,0.05555555555555555,Family protection,joy
+19,Protection of the family,strah,11,54,0.2037037037037037,Family protection,fear
+19,Protection of the family,tuga,23,54,0.42592592592592593,Family protection,sadness
+2,Distrust in institutions,bes,7,48,0.14583333333333334,Distrust in institutions,anger
+2,Distrust in institutions,gađenje,3,48,0.0625,Distrust in institutions,disgust
+2,Distrust in institutions,radost,3,48,0.0625,Distrust in institutions,joy
+2,Distrust in institutions,strah,14,48,0.2916666666666667,Distrust in institutions,fear
+2,Distrust in institutions,tuga,21,48,0.4375,Distrust in institutions,sadness
+20,"Belief that perpetartor will change (""it won't happen again"")",bes,2,4,0.5,Belief perpetrator would change,anger
+20,"Belief that perpetartor will change (""it won't happen again"")",tuga,2,4,0.5,Belief perpetrator would change,sadness
+22,Dependent on the perpetrator,bes,3,13,0.23076923076923078,Dependence on perpetrator,anger
+22,Dependent on the perpetrator,gađenje,2,13,0.15384615384615385,Dependence on perpetrator,disgust
+22,Dependent on the perpetrator,strah,2,13,0.15384615384615385,Dependence on perpetrator,fear
+22,Dependent on the perpetrator,tuga,6,13,0.46153846153846156,Dependence on perpetrator,sadness
+23,I can deal with it,bes,3,13,0.23076923076923078,I can deal with it,anger
+23,I can deal with it,strah,5,13,0.38461538461538464,I can deal with it,fear
+23,I can deal with it,tuga,5,13,0.38461538461538464,I can deal with it,sadness
+24,Blaming the victim,bes,6,21,0.2857142857142857,Blaming the victim,anger
+24,Blaming the victim,gađenje,2,21,0.09523809523809523,Blaming the victim,disgust
+24,Blaming the victim,radost,1,21,0.047619047619047616,Blaming the victim,joy
+24,Blaming the victim,strah,3,21,0.14285714285714285,Blaming the victim,fear
+24,Blaming the victim,tuga,9,21,0.42857142857142855,Blaming the victim,sadness
+25,OTHER,bes,2,7,0.2857142857142857,OTHER,anger
+25,OTHER,strah,2,7,0.2857142857142857,OTHER,fear
+25,OTHER,tuga,3,7,0.42857142857142855,OTHER,sadness
+3,Others minimized victims experience,bes,11,73,0.1506849315068493,Others minimized the experience,anger
+3,Others minimized victims experience,gađenje,8,73,0.1095890410958904,Others minimized the experience,disgust
+3,Others minimized victims experience,neutralno,1,73,0.0136986301369863,Others minimized the experience,neutral
+3,Others minimized victims experience,poverenje,1,73,0.0136986301369863,Others minimized the experience,trust
+3,Others minimized victims experience,radost,5,73,0.0684931506849315,Others minimized the experience,joy
+3,Others minimized victims experience,strah,9,73,0.1232876712328767,Others minimized the experience,fear
+3,Others minimized victims experience,tuga,38,73,0.5205479452054794,Others minimized the experience,sadness
+4,"""I tought that was normal"" (dismisal/minimizing)",bes,3,23,0.13043478260869565,Experience treated as normal,anger
+4,"""I tought that was normal"" (dismisal/minimizing)",gađenje,6,23,0.2608695652173913,Experience treated as normal,disgust
+4,"""I tought that was normal"" (dismisal/minimizing)",neutralno,1,23,0.043478260869565216,Experience treated as normal,neutral
+4,"""I tought that was normal"" (dismisal/minimizing)",radost,3,23,0.13043478260869565,Experience treated as normal,joy
+4,"""I tought that was normal"" (dismisal/minimizing)",strah,1,23,0.043478260869565216,Experience treated as normal,fear
+4,"""I tought that was normal"" (dismisal/minimizing)",tuga,9,23,0.391304347826087,Experience treated as normal,sadness
+5,Lack of knowledge/awarenes that it is violence,bes,44,266,0.16541353383458646,Lack of recognition as violence,anger
+5,Lack of knowledge/awarenes that it is violence,gađenje,36,266,0.13533834586466165,Lack of recognition as violence,disgust
+5,Lack of knowledge/awarenes that it is violence,neutralno,4,266,0.015037593984962405,Lack of recognition as violence,neutral
+5,Lack of knowledge/awarenes that it is violence,poverenje,6,266,0.022556390977443608,Lack of recognition as violence,trust
+5,Lack of knowledge/awarenes that it is violence,radost,8,266,0.03007518796992481,Lack of recognition as violence,joy
+5,Lack of knowledge/awarenes that it is violence,strah,51,266,0.19172932330827067,Lack of recognition as violence,fear
+5,Lack of knowledge/awarenes that it is violence,tuga,117,266,0.4398496240601504,Lack of recognition as violence,sadness
+6,Fear,bes,23,155,0.14838709677419354,Fear,anger
+6,Fear,gađenje,15,155,0.0967741935483871,Fear,disgust
+6,Fear,iščekivanje,1,155,0.0064516129032258064,Fear,anticipation
+6,Fear,neutralno,1,155,0.0064516129032258064,Fear,neutral
+6,Fear,poverenje,2,155,0.012903225806451613,Fear,trust
+6,Fear,radost,9,155,0.05806451612903226,Fear,joy
+6,Fear,strah,27,155,0.17419354838709677,Fear,fear
+6,Fear,tuga,77,155,0.4967741935483871,Fear,sadness
+7,Self-blame,bes,16,98,0.16326530612244897,Self-blame,anger
+7,Self-blame,gađenje,11,98,0.11224489795918367,Self-blame,disgust
+7,Self-blame,neutralno,4,98,0.04081632653061224,Self-blame,neutral
+7,Self-blame,radost,5,98,0.05102040816326531,Self-blame,joy
+7,Self-blame,strah,16,98,0.16326530612244897,Self-blame,fear
+7,Self-blame,tuga,46,98,0.46938775510204084,Self-blame,sadness
+8,"Kept from reporting by others (""advised me not to report"")",bes,1,9,0.1111111111111111,Discouraged by others,anger
+8,"Kept from reporting by others (""advised me not to report"")",strah,3,9,0.3333333333333333,Discouraged by others,fear
+8,"Kept from reporting by others (""advised me not to report"")",tuga,5,9,0.5555555555555556,Discouraged by others,sadness
+9,Managed to escape/defend,bes,4,56,0.07142857142857142,Escaped or defended oneself,anger
+9,Managed to escape/defend,gađenje,10,56,0.17857142857142858,Escaped or defended oneself,disgust
+9,Managed to escape/defend,iščekivanje,1,56,0.017857142857142856,Escaped or defended oneself,anticipation
+9,Managed to escape/defend,neutralno,1,56,0.017857142857142856,Escaped or defended oneself,neutral
+9,Managed to escape/defend,poverenje,1,56,0.017857142857142856,Escaped or defended oneself,trust
+9,Managed to escape/defend,radost,5,56,0.08928571428571429,Escaped or defended oneself,joy
+9,Managed to escape/defend,strah,10,56,0.17857142857142858,Escaped or defended oneself,fear
+9,Managed to escape/defend,tuga,24,56,0.42857142857142855,Escaped or defended oneself,sadness
